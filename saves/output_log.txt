@@ -1,0 +1,698 @@
+Initialize engine version: 2017.4.22f1 (eb4bc6fa7f1d)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 740M (ID=0xfdf)
+    Vendor:   NVIDIA
+    VRAM:     2009 MB
+    Driver:   25.21.14.1681
+Begin MonoManager ReloadAssembly
+- Completed reload, in  1.960 seconds
+OnLevelWasLoaded was found on LeanTween
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 375)
+
+WARNING: Shader Unsupported: 'Hidden/VideoDecodeAndroid' - Pass 'RGBAEXTERNAL_TO_RGBA' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/VideoDecodeAndroid' - Setting to default shader.
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+XR: OpenVR Error! OpenVR failed initialization with error code VRInitError_Init_PathRegistryNotFound: "Installation path could not be located (110)"!
+ 
+(Filename:  Line: 1590)
+
+UnloadTime: 1.797400 ms
+Resolution requested: 1366x768
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Configuring logging from embedded logConfig asset.
+[Logging] Logging successfully configured from embedded logConfig asset.
+
+[Logging] Logging start.
+
+[FileUtilityHelper] Attempting to load "C:/Users/Роман Ширяев/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\playerSettings.xml"...
+
+[FileUtilityHelper] Failed to load "C:/Users/Роман Ширяев/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\playerSettings.xml": Could not find file "C:\Users\Роман Ширяев\AppData\LocalLow\Steel Crate Games\Keep Talking and Nobody Explodes\playerSettings.xml".
+
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[FileUtilityHelper] Attempting to save "C:/Users/Роман Ширяев/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\playerSettings.xml"...
+
+[FileUtilityHelper] Successfully saved "C:/Users/Роман Ширяев/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\playerSettings.xml".
+
+[PlayerSettingsManager] PlayerSettings: InvertTiltControls: False, TouchpadInvert: False, RumbleEnabled: True, MusicVolume: 100, SFXVolume: 100, AntiAliasing: 4, VRModeRequested: True, SecondScreenMode: InteractiveManual, VSync: 1, AccessibilitySettings: Empty, Empty, Empty, DisabledControlTypes: None LanguageCode: None
+
+[ProgressionManager] Loading progression data...
+
+[FileUtilityHelper] Attempting to load "C:/Users/Роман Ширяев/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\progression.xml"...
+
+[FileUtilityHelper] Failed to load "C:/Users/Роман Ширяев/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\progression.xml": Could not find file "C:\Users\Роман Ширяев\AppData\LocalLow\Steel Crate Games\Keep Talking and Nobody Explodes\progression.xml".
+
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ProgressionManager] No progression data found.
+
+[ProgressionManager] Progression summary:
+
+[ProgressionManager] Last Unlocked Bomb Classification: (None)
+
+[ProgressionManager] No mission progression found.
+
+[ProgressionManager] No disarmed components.
+
+[LoadingManager] Checking for language preference...
+
+[LoadingManager] No language preference found. Will use system setting.
+
+I2Loc: SavedLanguage is "". System language is "Russian"
+I2Loc: Setting language to Russian (ru)
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 2870.
+Total: 58.682600 ms (FindLiveObjects: 0.369400 ms CreateObjectMapping: 0.164300 ms MarkObjects: 58.119700 ms  DeleteObjects: 0.028800 ms)
+
+Initializing platform...
+[PlayerSettingsManager] Saving player settings.
+
+[FileUtilityHelper] Attempting to save "C:/Users/Роман Ширяев/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\playerSettings.xml"...
+
+[FileUtilityHelper] Successfully saved "C:/Users/Роман Ширяев/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\playerSettings.xml".
+
+[PCPlatformUtil] VRModeRequested: True
+
+[PCPlatformUtil] UnityEngine.VR.VRDevice.isPresent: False
+
+[PCPlatformUtil] No HMD detected. Falling back to non-VR mode.
+
+[PCPlatformUtil] Instantiating FixedCameraRig.
+
+[AbstractPlatformUtil] RenderScale: 0 Resolution: 0x0
+
+[KTInputManager] Requested setting control type to: Gaze
+
+[KTInputManager] Control type not supported. Not changing control type.
+
+[KTInputManager] creating haptic
+
+[Localization] OnLocalizeEvent!
+
+[Rules] Loading all manual meta data...
+
+[Rules] Found valid manual metadata: LanguageCode: en, ManualVersion: 1, LockCode: 241, Seed: 1, Revision: 4
+
+[Rules] Found valid manual metadata: LanguageCode: da, ManualVersion: 1-da, LockCode: 354, Seed: 1, Revision: 1
+
+[Rules] Found valid manual metadata: LanguageCode: nl, ManualVersion: 2-nl, LockCode: 474, Seed: 1, Revision: 1
+
+[Rules] Found valid manual metadata: LanguageCode: eo, ManualVersion: 1-eo, LockCode: 136, Seed: 1, Revision: 1
+
+[Rules] Found valid manual metadata: LanguageCode: fi, ManualVersion: 1-fi, LockCode: 873, Seed: 1, Revision: 1
+
+[Rules] Found valid manual metadata: LanguageCode: fr, ManualVersion: 1-fr, LockCode: 750, Seed: 1, Revision: 1
+
+[Rules] Found valid manual metadata: LanguageCode: it, ManualVersion: 1-it, LockCode: 345, Seed: 1, Revision: 1
+
+[Rules] Found valid manual metadata: LanguageCode: ja, ManualVersion: 1-ja, LockCode: 122, Seed: 1, Revision: 1
+
+[Rules] Found valid manual metadata: LanguageCode: nb, ManualVersion: 1-nb, LockCode: 698, Seed: 1, Revision: 1
+
+[Rules] Found valid manual metadata: LanguageCode: pl, ManualVersion: 2-pl, LockCode: 856, Seed: 1, Revision: 1
+
+[Rules] Found valid manual metadata: LanguageCode: pt-BR, ManualVersion: 1-pt-BR, LockCode: 384, Seed: 1, Revision: 1
+
+[Rules] Found valid manual metadata: LanguageCode: ro, ManualVersion: 1-ro, LockCode: 626, Seed: 1, Revision: 1
+
+[Rules] Found valid manual metadata: LanguageCode: ru, ManualVersion: 1-ru, LockCode: 117, Seed: 1, Revision: 1
+
+[Rules] Found valid manual metadata: LanguageCode: es, ManualVersion: 1-es, LockCode: 925, Seed: 1, Revision: 1
+
+[Rules] Found valid manual metadata: LanguageCode: tr, ManualVersion: 1-tr, LockCode: 993, Seed: 1, Revision: 1
+
+[Rules] Found valid manual metadata: LanguageCode: ar, ManualVersion: 1-ar, LockCode: 567, Seed: 1, Revision: 1
+
+[Rules] Found valid manual metadata: LanguageCode: zh-CN, ManualVersion: 1-zh-CN, LockCode: 931, Seed: 1, Revision: 1
+
+[Rules] Found valid manual metadata: LanguageCode: zh-TW, ManualVersion: 1-zh-TW, LockCode: 917, Seed: 1, Revision: 1
+
+[Rules] Found valid manual metadata: LanguageCode: cs, ManualVersion: 1-cs, LockCode: 083, Seed: 1, Revision: 1
+
+[Rules] Found valid manual metadata: LanguageCode: de, ManualVersion: 1-de, LockCode: 558, Seed: 1, Revision: 1
+
+[Rules] Found valid manual metadata: LanguageCode: he, ManualVersion: 1-he, LockCode: 506, Seed: 1, Revision: 1
+
+[Rules] Found valid manual metadata: LanguageCode: hu, ManualVersion: 1-hu, LockCode: 642, Seed: 1, Revision: 1
+
+[Rules] Found valid manual metadata: LanguageCode: ko, ManualVersion: 1-ko, LockCode: 964, Seed: 1, Revision: 1
+
+[Rules] Found valid manual metadata: LanguageCode: pt-PT, ManualVersion: 1-pt-PT, LockCode: 106, Seed: 1, Revision: 1
+
+[Rules] Found valid manual metadata: LanguageCode: sv, ManualVersion: 1-sv, LockCode: 453, Seed: 1, Revision: 1
+
+[Rules] Found valid manual metadata: LanguageCode: th, ManualVersion: 1-th, LockCode: 248, Seed: 1, Revision: 1
+
+[Rules] Found valid manual metadata: LanguageCode: uk, ManualVersion: 1-uk, LockCode: 775, Seed: 1, Revision: 1
+
+[Rules] 27 valid manual meta data loaded.
+
+[Rules] Generating rules for language code "ru"
+
+[Rules] Generating BombRules...
+
+[MorseCodeRuleSetGenerator] 42 characters added: абвгдежзийклмнопрстуфхцчшщъьыэюя0123456789
+
+[BombRules] BombRules: LanguageCode: ru, ManualVersion: 1-ru, LockCode: 117, Seed: 1, Revision: 1
+
+[BombRules] WireSet Rules:
+3 wires:
+If there are no red wires, cut the second wire.
+Otherwise, if the last wire is white, cut the last wire.
+Otherwise, if there is more than one blue wire, cut the last blue wire.
+Otherwise, cut the last wire.
+
+4 wires:
+If there is more than one red wire and the last digit of the serial number is odd, cut the last red wire.
+Otherwise, if the last wire is yellow and there are no red wires, cut the first wire.
+Otherwise, if there is exactly one blue wire, cut the first wire.
+Otherwise, if there is more than one yellow wire, cut the last wire.
+Otherwise, cut the second wire.
+
+5 wires:
+If the last wire is black and the last digit of the serial number is odd, cut the fourth wire.
+Otherwise, if there is exactly one red wire and there is more than one yellow wire, cut the first wire.
+Otherwise, if there are no black wires, cut the second wire.
+Otherwise, cut the first wire.
+
+6 wires:
+If there are no yellow wires and the last digit of the serial number is odd, cut the third wire.
+Otherwise, if there is exactly one yellow wire and there is more than one white wire, cut the fourth wire.
+Otherwise, if there are no red wires, cut the last wire.
+Otherwise, cut the fourth wire.
+
+
+
+[BombRules] Button Rules:
+Initial rules
+If the button is blue and the button says "Abort", hold the button and refer to "Releasing a Held Button".
+If there is more than 1 battery on the bomb and the button says "Detonate", press and immediately release the button.
+If the button is white and there is a lit indicator with label CAR, hold the button and refer to "Releasing a Held Button".
+If there are more than 2 batteries on the bomb and there is a lit indicator with label FRK, press and immediately release the button.
+If the button is yellow, hold the button and refer to "Releasing a Held Button".
+If the button is red and the button says "Hold", press and immediately release the button.
+If none of the above apply, hold the button and refer to "Releasing a Held Button".
+
+On Hold Rules
+If Blue strip:, release when the countdown timer has a 4 in any position..
+If White strip:, release when the countdown timer has a 1 in any position..
+If Yellow strip:, release when the countdown timer has a 5 in any position..
+If Any other color strip:, release when the countdown timer has a 1 in any position..
+
+
+[BombRules] Keypad Rules:
+Ϙ,Ѧ,ƛ,Ϟ,Ѭ,ϗ,Ͽ
+Ӭ,Ϙ,Ͽ,Ҩ,☆,ϗ,¿
+©,Ѽ,Ҩ,Җ,Ԇ,ƛ,☆
+Ϭ,¶,ѣ,Ѭ,Җ,¿,ټ
+Ψ,ټ,ѣ,Ͼ,¶,ѯ,★
+Ϭ,Ӭ,҂,ӕ,Ψ,Ҋ,Ω
+
+
+[BombRules] Simon Rules:
+HASVOWEL:
+0 Strikes: Blue, Red, Yellow, Green, 
+1 Strikes: Yellow, Green, Blue, Red, 
+2 Strikes: Green, Red, Yellow, Blue, 
+OTHERWISE:
+0 Strikes: Blue, Yellow, Green, Red, 
+1 Strikes: Red, Blue, Yellow, Green, 
+2 Strikes: Yellow, Green, Blue, Red, 
+
+
+[BombRules] Who's On First Rules:
+Display Word "Look At" Index:
+WhosOnFirst/rule_DISPLAY1 ("ДА"): 2, WhosOnFirst/rule_DISPLAY2 ("ПЕРВОЕ"): 1, WhosOnFirst/rule_DISPLAY3 ("ЭКРАН"): 5, WhosOnFirst/rule_DISPLAY4 ("ГОТОВО"): 1, WhosOnFirst/rule_DISPLAY5 ("ДРУГОЙ"): 5, WhosOnFirst/rule_DISPLAY6 ("НИЧЕГО"): 2, WhosOnFirst/rule_DISPLAY7 (""): 4, WhosOnFirst/rule_DISPLAY8 ("ПУСТО"): 3, WhosOnFirst/rule_DISPLAY9 ("НЕТ"): 5, WhosOnFirst/rule_DISPLAY10 ("ВЕСЕЛО"): 2, WhosOnFirst/rule_DISPLAY11 ("ВЕСИЛА"): 5, WhosOnFirst/rule_DISPLAY12 ("ВЕСИЛО"): 3, WhosOnFirst/rule_DISPLAY13 ("КОРИТСЯ"): 3, WhosOnFirst/rule_DISPLAY14 ("КОРИЦА"): 4, WhosOnFirst/rule_DISPLAY15 ("КОРИТЬСЯ"): 4, WhosOnFirst/rule_DISPLAY16 ("СТОЙ"): 5, WhosOnFirst/rule_DISPLAY17 ("ГЛАЗ"): 3, WhosOnFirst/rule_DISPLAY18 ("ГЛАС"): 5, WhosOnFirst/rule_DISPLAY19 ("ПОРОГ"): 3, WhosOnFirst/rule_DISPLAY20 ("ПОРОК"): 3, WhosOnFirst/rule_DISPLAY21 ("ПАРОК"): 0, WhosOnFirst/rule_DISPLAY22 ("КРАБ"): 5, WhosOnFirst/rule_DISPLAY23 ("КРАП"): 4, WhosOnFirst/rule_DISPLAY24 ("КРАББ"): 3, WhosOnFirst/rule_DISPLAY25 ("ПАС"): 2, WhosOnFirst/rule_DISPLAY26 ("ПАСС"): 5, WhosOnFirst/rule_DISPLAY27 ("ПАЗ"): 1, WhosOnFirst/rule_DISPLAY28 ("ПОГОДИ"): 5, 
+
+Precedent Map:
+WhosOnFirst/rule_KEYPAD_group1_1 ("ГОТОВО"): WhosOnFirst/rule_KEYPAD_group1_6 ("ДА"), WhosOnFirst/rule_KEYPAD_group1_12 ("ПОСТОЙ"), WhosOnFirst/rule_KEYPAD_group1_7 ("ЕЩЁ РАЗ"), WhosOnFirst/rule_KEYPAD_group1_11 ("ВЕСИЛА"), WhosOnFirst/rule_KEYPAD_group1_9 ("ВЕСИЛО"), WhosOnFirst/rule_KEYPAD_group1_14 ("СТОЙ"), WhosOnFirst/rule_KEYPAD_group1_10 ("ВЕСЕЛО"), WhosOnFirst/rule_KEYPAD_group1_4 ("ПУСТО"), WhosOnFirst/rule_KEYPAD_group1_1 ("ГОТОВО"), WhosOnFirst/rule_KEYPAD_group1_3 ("НЕТ"), WhosOnFirst/rule_KEYPAD_group1_2 ("ПЕРВОЕ"), WhosOnFirst/rule_KEYPAD_group1_8 ("ЕЩЕ РАЗ"), WhosOnFirst/rule_KEYPAD_group1_5 ("НИЧЕГО"), WhosOnFirst/rule_KEYPAD_group1_13 ("ПОГОДИ")
+WhosOnFirst/rule_KEYPAD_group1_2 ("ПЕРВОЕ"): WhosOnFirst/rule_KEYPAD_group1_9 ("ВЕСИЛО"), WhosOnFirst/rule_KEYPAD_group1_12 ("ПОСТОЙ"), WhosOnFirst/rule_KEYPAD_group1_6 ("ДА"), WhosOnFirst/rule_KEYPAD_group1_11 ("ВЕСИЛА"), WhosOnFirst/rule_KEYPAD_group1_3 ("НЕТ"), WhosOnFirst/rule_KEYPAD_group1_10 ("ВЕСЕЛО"), WhosOnFirst/rule_KEYPAD_group1_5 ("НИЧЕГО"), WhosOnFirst/rule_KEYPAD_group1_8 ("ЕЩЕ РАЗ"), WhosOnFirst/rule_KEYPAD_group1_13 ("ПОГОДИ"), WhosOnFirst/rule_KEYPAD_group1_1 ("ГОТОВО"), WhosOnFirst/rule_KEYPAD_group1_4 ("ПУСТО"), WhosOnFirst/rule_KEYPAD_group1_7 ("ЕЩЁ РАЗ"), WhosOnFirst/rule_KEYPAD_group1_14 ("СТОЙ"), WhosOnFirst/rule_KEYPAD_group1_2 ("ПЕРВОЕ")
+WhosOnFirst/rule_KEYPAD_group1_3 ("НЕТ"): WhosOnFirst/rule_KEYPAD_group1_4 ("ПУСТО"), WhosOnFirst/rule_KEYPAD_group1_8 ("ЕЩЕ РАЗ"), WhosOnFirst/rule_KEYPAD_group1_13 ("ПОГОДИ"), WhosOnFirst/rule_KEYPAD_group1_2 ("ПЕРВОЕ"), WhosOnFirst/rule_KEYPAD_group1_7 ("ЕЩЁ РАЗ"), WhosOnFirst/rule_KEYPAD_group1_1 ("ГОТОВО"), WhosOnFirst/rule_KEYPAD_group1_10 ("ВЕСЕЛО"), WhosOnFirst/rule_KEYPAD_group1_6 ("ДА"), WhosOnFirst/rule_KEYPAD_group1_5 ("НИЧЕГО"), WhosOnFirst/rule_KEYPAD_group1_9 ("ВЕСИЛО"), WhosOnFirst/rule_KEYPAD_group1_14 ("СТОЙ"), WhosOnFirst/rule_KEYPAD_group1_12 ("ПОСТОЙ"), WhosOnFirst/rule_KEYPAD_group1_3 ("НЕТ"), WhosOnFirst/rule_KEYPAD_group1_11 ("ВЕСИЛА")
+WhosOnFirst/rule_KEYPAD_group1_4 ("ПУСТО"): WhosOnFirst/rule_KEYPAD_group1_13 ("ПОГОДИ"), WhosOnFirst/rule_KEYPAD_group1_10 ("ВЕСЕЛО"), WhosOnFirst/rule_KEYPAD_group1_12 ("ПОСТОЙ"), WhosOnFirst/rule_KEYPAD_group1_11 ("ВЕСИЛА"), WhosOnFirst/rule_KEYPAD_group1_4 ("ПУСТО"), WhosOnFirst/rule_KEYPAD_group1_14 ("СТОЙ"), WhosOnFirst/rule_KEYPAD_group1_1 ("ГОТОВО"), WhosOnFirst/rule_KEYPAD_group1_5 ("НИЧЕГО"), WhosOnFirst/rule_KEYPAD_group1_3 ("НЕТ"), WhosOnFirst/rule_KEYPAD_group1_7 ("ЕЩЁ РАЗ"), WhosOnFirst/rule_KEYPAD_group1_9 ("ВЕСИЛО"), WhosOnFirst/rule_KEYPAD_group1_8 ("ЕЩЕ РАЗ"), WhosOnFirst/rule_KEYPAD_group1_6 ("ДА"), WhosOnFirst/rule_KEYPAD_group1_2 ("ПЕРВОЕ")
+WhosOnFirst/rule_KEYPAD_group1_5 ("НИЧЕГО"): WhosOnFirst/rule_KEYPAD_group1_8 ("ЕЩЕ РАЗ"), WhosOnFirst/rule_KEYPAD_group1_10 ("ВЕСЕЛО"), WhosOnFirst/rule_KEYPAD_group1_12 ("ПОСТОЙ"), WhosOnFirst/rule_KEYPAD_group1_11 ("ВЕСИЛА"), WhosOnFirst/rule_KEYPAD_group1_6 ("ДА"), WhosOnFirst/rule_KEYPAD_group1_4 ("ПУСТО"), WhosOnFirst/rule_KEYPAD_group1_3 ("НЕТ"), WhosOnFirst/rule_KEYPAD_group1_14 ("СТОЙ"), WhosOnFirst/rule_KEYPAD_group1_9 ("ВЕСИЛО"), WhosOnFirst/rule_KEYPAD_group1_7 ("ЕЩЁ РАЗ"), WhosOnFirst/rule_KEYPAD_group1_13 ("ПОГОДИ"), WhosOnFirst/rule_KEYPAD_group1_2 ("ПЕРВОЕ"), WhosOnFirst/rule_KEYPAD_group1_5 ("НИЧЕГО"), WhosOnFirst/rule_KEYPAD_group1_1 ("ГОТОВО")
+WhosOnFirst/rule_KEYPAD_group1_6 ("ДА"): WhosOnFirst/rule_KEYPAD_group1_12 ("ПОСТОЙ"), WhosOnFirst/rule_KEYPAD_group1_10 ("ВЕСЕЛО"), WhosOnFirst/rule_KEYPAD_group1_8 ("ЕЩЕ РАЗ"), WhosOnFirst/rule_KEYPAD_group1_11 ("ВЕСИЛА"), WhosOnFirst/rule_KEYPAD_group1_2 ("ПЕРВОЕ"), WhosOnFirst/rule_KEYPAD_group1_7 ("ЕЩЁ РАЗ"), WhosOnFirst/rule_KEYPAD_group1_14 ("СТОЙ"), WhosOnFirst/rule_KEYPAD_group1_1 ("ГОТОВО"), WhosOnFirst/rule_KEYPAD_group1_5 ("НИЧЕГО"), WhosOnFirst/rule_KEYPAD_group1_6 ("ДА"), WhosOnFirst/rule_KEYPAD_group1_9 ("ВЕСИЛО"), WhosOnFirst/rule_KEYPAD_group1_4 ("ПУСТО"), WhosOnFirst/rule_KEYPAD_group1_3 ("НЕТ"), WhosOnFirst/rule_KEYPAD_group1_13 ("ПОГОДИ")
+WhosOnFirst/rule_KEYPAD_group1_7 ("ЕЩЁ РАЗ"): WhosOnFirst/rule_KEYPAD_group1_8 ("ЕЩЕ РАЗ"), WhosOnFirst/rule_KEYPAD_group1_7 ("ЕЩЁ РАЗ"), WhosOnFirst/rule_KEYPAD_group1_9 ("ВЕСИЛО"), WhosOnFirst/rule_KEYPAD_group1_5 ("НИЧЕГО"), WhosOnFirst/rule_KEYPAD_group1_1 ("ГОТОВО"), WhosOnFirst/rule_KEYPAD_group1_4 ("ПУСТО"), WhosOnFirst/rule_KEYPAD_group1_11 ("ВЕСИЛА"), WhosOnFirst/rule_KEYPAD_group1_3 ("НЕТ"), WhosOnFirst/rule_KEYPAD_group1_12 ("ПОСТОЙ"), WhosOnFirst/rule_KEYPAD_group1_2 ("ПЕРВОЕ"), WhosOnFirst/rule_KEYPAD_group1_13 ("ПОГОДИ"), WhosOnFirst/rule_KEYPAD_group1_6 ("ДА"), WhosOnFirst/rule_KEYPAD_group1_14 ("СТОЙ"), WhosOnFirst/rule_KEYPAD_group1_10 ("ВЕСЕЛО")
+WhosOnFirst/rule_KEYPAD_group1_8 ("ЕЩЕ РАЗ"): WhosOnFirst/rule_KEYPAD_group1_1 ("ГОТОВО"), WhosOnFirst/rule_KEYPAD_group1_5 ("НИЧЕГО"), WhosOnFirst/rule_KEYPAD_group1_9 ("ВЕСИЛО"), WhosOnFirst/rule_KEYPAD_group1_7 ("ЕЩЁ РАЗ"), WhosOnFirst/rule_KEYPAD_group1_12 ("ПОСТОЙ"), WhosOnFirst/rule_KEYPAD_group1_6 ("ДА"), WhosOnFirst/rule_KEYPAD_group1_10 ("ВЕСЕЛО"), WhosOnFirst/rule_KEYPAD_group1_3 ("НЕТ"), WhosOnFirst/rule_KEYPAD_group1_14 ("СТОЙ"), WhosOnFirst/rule_KEYPAD_group1_4 ("ПУСТО"), WhosOnFirst/rule_KEYPAD_group1_8 ("ЕЩЕ РАЗ"), WhosOnFirst/rule_KEYPAD_group1_11 ("ВЕСИЛА"), WhosOnFirst/rule_KEYPAD_group1_13 ("ПОГОДИ"), WhosOnFirst/rule_KEYPAD_group1_2 ("ПЕРВОЕ")
+WhosOnFirst/rule_KEYPAD_group1_9 ("ВЕСИЛО"): WhosOnFirst/rule_KEYPAD_group1_10 ("ВЕСЕЛО"), WhosOnFirst/rule_KEYPAD_group1_9 ("ВЕСИЛО"), WhosOnFirst/rule_KEYPAD_group1_2 ("ПЕРВОЕ"), WhosOnFirst/rule_KEYPAD_group1_3 ("НЕТ"), WhosOnFirst/rule_KEYPAD_group1_11 ("ВЕСИЛА"), WhosOnFirst/rule_KEYPAD_group1_6 ("ДА"), WhosOnFirst/rule_KEYPAD_group1_4 ("ПУСТО"), WhosOnFirst/rule_KEYPAD_group1_7 ("ЕЩЁ РАЗ"), WhosOnFirst/rule_KEYPAD_group1_8 ("ЕЩЕ РАЗ"), WhosOnFirst/rule_KEYPAD_group1_13 ("ПОГОДИ"), WhosOnFirst/rule_KEYPAD_group1_14 ("СТОЙ"), WhosOnFirst/rule_KEYPAD_group1_1 ("ГОТОВО"), WhosOnFirst/rule_KEYPAD_group1_12 ("ПОСТОЙ"), WhosOnFirst/rule_KEYPAD_group1_5 ("НИЧЕГО")
+WhosOnFirst/rule_KEYPAD_group1_10 ("ВЕСЕЛО"): WhosOnFirst/rule_KEYPAD_group1_6 ("ДА"), WhosOnFirst/rule_KEYPAD_group1_5 ("НИЧЕГО"), WhosOnFirst/rule_KEYPAD_group1_1 ("ГОТОВО"), WhosOnFirst/rule_KEYPAD_group1_14 ("СТОЙ"), WhosOnFirst/rule_KEYPAD_group1_3 ("НЕТ"), WhosOnFirst/rule_KEYPAD_group1_13 ("ПОГОДИ"), WhosOnFirst/rule_KEYPAD_group1_7 ("ЕЩЁ РАЗ"), WhosOnFirst/rule_KEYPAD_group1_10 ("ВЕСЕЛО"), WhosOnFirst/rule_KEYPAD_group1_11 ("ВЕСИЛА"), WhosOnFirst/rule_KEYPAD_group1_9 ("ВЕСИЛО"), WhosOnFirst/rule_KEYPAD_group1_8 ("ЕЩЕ РАЗ"), WhosOnFirst/rule_KEYPAD_group1_4 ("ПУСТО"), WhosOnFirst/rule_KEYPAD_group1_12 ("ПОСТОЙ"), WhosOnFirst/rule_KEYPAD_group1_2 ("ПЕРВОЕ")
+WhosOnFirst/rule_KEYPAD_group1_11 ("ВЕСИЛА"): WhosOnFirst/rule_KEYPAD_group1_4 ("ПУСТО"), WhosOnFirst/rule_KEYPAD_group1_1 ("ГОТОВО"), WhosOnFirst/rule_KEYPAD_group1_12 ("ПОСТОЙ"), WhosOnFirst/rule_KEYPAD_group1_7 ("ЕЩЁ РАЗ"), WhosOnFirst/rule_KEYPAD_group1_5 ("НИЧЕГО"), WhosOnFirst/rule_KEYPAD_group1_14 ("СТОЙ"), WhosOnFirst/rule_KEYPAD_group1_3 ("НЕТ"), WhosOnFirst/rule_KEYPAD_group1_13 ("ПОГОДИ"), WhosOnFirst/rule_KEYPAD_group1_9 ("ВЕСИЛО"), WhosOnFirst/rule_KEYPAD_group1_11 ("ВЕСИЛА"), WhosOnFirst/rule_KEYPAD_group1_10 ("ВЕСЕЛО"), WhosOnFirst/rule_KEYPAD_group1_2 ("ПЕРВОЕ"), WhosOnFirst/rule_KEYPAD_group1_8 ("ЕЩЕ РАЗ"), WhosOnFirst/rule_KEYPAD_group1_6 ("ДА")
+WhosOnFirst/rule_KEYPAD_group1_12 ("ПОСТОЙ"): WhosOnFirst/rule_KEYPAD_group1_11 ("ВЕСИЛА"), WhosOnFirst/rule_KEYPAD_group1_3 ("НЕТ"), WhosOnFirst/rule_KEYPAD_group1_2 ("ПЕРВОЕ"), WhosOnFirst/rule_KEYPAD_group1_6 ("ДА"), WhosOnFirst/rule_KEYPAD_group1_8 ("ЕЩЕ РАЗ"), WhosOnFirst/rule_KEYPAD_group1_5 ("НИЧЕГО"), WhosOnFirst/rule_KEYPAD_group1_13 ("ПОГОДИ"), WhosOnFirst/rule_KEYPAD_group1_12 ("ПОСТОЙ"), WhosOnFirst/rule_KEYPAD_group1_9 ("ВЕСИЛО"), WhosOnFirst/rule_KEYPAD_group1_1 ("ГОТОВО"), WhosOnFirst/rule_KEYPAD_group1_4 ("ПУСТО"), WhosOnFirst/rule_KEYPAD_group1_14 ("СТОЙ"), WhosOnFirst/rule_KEYPAD_group1_7 ("ЕЩЁ РАЗ"), WhosOnFirst/rule_KEYPAD_group1_10 ("ВЕСЕЛО")
+WhosOnFirst/rule_KEYPAD_group1_13 ("ПОГОДИ"): WhosOnFirst/rule_KEYPAD_group1_8 ("ЕЩЕ РАЗ"), WhosOnFirst/rule_KEYPAD_group1_3 ("НЕТ"), WhosOnFirst/rule_KEYPAD_group1_4 ("ПУСТО"), WhosOnFirst/rule_KEYPAD_group1_12 ("ПОСТОЙ"), WhosOnFirst/rule_KEYPAD_group1_6 ("ДА"), WhosOnFirst/rule_KEYPAD_group1_9 ("ВЕСИЛО"), WhosOnFirst/rule_KEYPAD_group1_2 ("ПЕРВОЕ"), WhosOnFirst/rule_KEYPAD_group1_14 ("СТОЙ"), WhosOnFirst/rule_KEYPAD_group1_7 ("ЕЩЁ РАЗ"), WhosOnFirst/rule_KEYPAD_group1_13 ("ПОГОДИ"), WhosOnFirst/rule_KEYPAD_group1_5 ("НИЧЕГО"), WhosOnFirst/rule_KEYPAD_group1_1 ("ГОТОВО"), WhosOnFirst/rule_KEYPAD_group1_10 ("ВЕСЕЛО"), WhosOnFirst/rule_KEYPAD_group1_11 ("ВЕСИЛА")
+WhosOnFirst/rule_KEYPAD_group1_14 ("СТОЙ"): WhosOnFirst/rule_KEYPAD_group1_10 ("ВЕСЕЛО"), WhosOnFirst/rule_KEYPAD_group1_11 ("ВЕСИЛА"), WhosOnFirst/rule_KEYPAD_group1_6 ("ДА"), WhosOnFirst/rule_KEYPAD_group1_1 ("ГОТОВО"), WhosOnFirst/rule_KEYPAD_group1_14 ("СТОЙ"), WhosOnFirst/rule_KEYPAD_group1_12 ("ПОСТОЙ"), WhosOnFirst/rule_KEYPAD_group1_5 ("НИЧЕГО"), WhosOnFirst/rule_KEYPAD_group1_8 ("ЕЩЕ РАЗ"), WhosOnFirst/rule_KEYPAD_group1_4 ("ПУСТО"), WhosOnFirst/rule_KEYPAD_group1_9 ("ВЕСИЛО"), WhosOnFirst/rule_KEYPAD_group1_2 ("ПЕРВОЕ"), WhosOnFirst/rule_KEYPAD_group1_7 ("ЕЩЁ РАЗ"), WhosOnFirst/rule_KEYPAD_group1_3 ("НЕТ"), WhosOnFirst/rule_KEYPAD_group1_13 ("ПОГОДИ")
+WhosOnFirst/rule_KEYPAD_group2_1 ("ВО ВСЕ"): WhosOnFirst/rule_KEYPAD_group2_13 ("ЧЕ?"), WhosOnFirst/rule_KEYPAD_group2_2 ("ВОВСЕ"), WhosOnFirst/rule_KEYPAD_group2_3 ("ВСЕ"), WhosOnFirst/rule_KEYPAD_group2_4 ("ВСЁ"), WhosOnFirst/rule_KEYPAD_group2_11 ("ДАЛЬШЕ"), WhosOnFirst/rule_KEYPAD_group2_7 ("ПАС"), WhosOnFirst/rule_KEYPAD_group2_5 ("И ТАК"), WhosOnFirst/rule_KEYPAD_group2_12 ("ЧЁ?"), WhosOnFirst/rule_KEYPAD_group2_9 ("ПАЗ"), WhosOnFirst/rule_KEYPAD_group2_1 ("ВО ВСЕ"), WhosOnFirst/rule_KEYPAD_group2_8 ("ПАСС"), WhosOnFirst/rule_KEYPAD_group2_14 ("ЧТО?"), WhosOnFirst/rule_KEYPAD_group2_10 ("ЖМИ"), WhosOnFirst/rule_KEYPAD_group2_6 ("ИТАК")
+WhosOnFirst/rule_KEYPAD_group2_2 ("ВОВСЕ"): WhosOnFirst/rule_KEYPAD_group2_3 ("ВСЕ"), WhosOnFirst/rule_KEYPAD_group2_11 ("ДАЛЬШЕ"), WhosOnFirst/rule_KEYPAD_group2_14 ("ЧТО?"), WhosOnFirst/rule_KEYPAD_group2_7 ("ПАС"), WhosOnFirst/rule_KEYPAD_group2_9 ("ПАЗ"), WhosOnFirst/rule_KEYPAD_group2_10 ("ЖМИ"), WhosOnFirst/rule_KEYPAD_group2_8 ("ПАСС"), WhosOnFirst/rule_KEYPAD_group2_12 ("ЧЁ?"), WhosOnFirst/rule_KEYPAD_group2_1 ("ВО ВСЕ"), WhosOnFirst/rule_KEYPAD_group2_6 ("ИТАК"), WhosOnFirst/rule_KEYPAD_group2_4 ("ВСЁ"), WhosOnFirst/rule_KEYPAD_group2_13 ("ЧЕ?"), WhosOnFirst/rule_KEYPAD_group2_5 ("И ТАК"), WhosOnFirst/rule_KEYPAD_group2_2 ("ВОВСЕ")
+WhosOnFirst/rule_KEYPAD_group2_3 ("ВСЕ"): WhosOnFirst/rule_KEYPAD_group2_8 ("ПАСС"), WhosOnFirst/rule_KEYPAD_group2_2 ("ВОВСЕ"), WhosOnFirst/rule_KEYPAD_group2_7 ("ПАС"), WhosOnFirst/rule_KEYPAD_group2_3 ("ВСЕ"), WhosOnFirst/rule_KEYPAD_group2_11 ("ДАЛЬШЕ"), WhosOnFirst/rule_KEYPAD_group2_5 ("И ТАК"), WhosOnFirst/rule_KEYPAD_group2_13 ("ЧЕ?"), WhosOnFirst/rule_KEYPAD_group2_6 ("ИТАК"), WhosOnFirst/rule_KEYPAD_group2_4 ("ВСЁ"), WhosOnFirst/rule_KEYPAD_group2_1 ("ВО ВСЕ"), WhosOnFirst/rule_KEYPAD_group2_9 ("ПАЗ"), WhosOnFirst/rule_KEYPAD_group2_12 ("ЧЁ?"), WhosOnFirst/rule_KEYPAD_group2_14 ("ЧТО?"), WhosOnFirst/rule_KEYPAD_group2_10 ("ЖМИ")
+WhosOnFirst/rule_KEYPAD_group2_4 ("ВСЁ"): WhosOnFirst/rule_KEYPAD_group2_1 ("ВО ВСЕ"), WhosOnFirst/rule_KEYPAD_group2_4 ("ВСЁ"), WhosOnFirst/rule_KEYPAD_group2_5 ("И ТАК"), WhosOnFirst/rule_KEYPAD_group2_11 ("ДАЛЬШЕ"), WhosOnFirst/rule_KEYPAD_group2_8 ("ПАСС"), WhosOnFirst/rule_KEYPAD_group2_2 ("ВОВСЕ"), WhosOnFirst/rule_KEYPAD_group2_6 ("ИТАК"), WhosOnFirst/rule_KEYPAD_group2_3 ("ВСЕ"), WhosOnFirst/rule_KEYPAD_group2_9 ("ПАЗ"), WhosOnFirst/rule_KEYPAD_group2_7 ("ПАС"), WhosOnFirst/rule_KEYPAD_group2_13 ("ЧЕ?"), WhosOnFirst/rule_KEYPAD_group2_10 ("ЖМИ"), WhosOnFirst/rule_KEYPAD_group2_14 ("ЧТО?"), WhosOnFirst/rule_KEYPAD_group2_12 ("ЧЁ?")
+WhosOnFirst/rule_KEYPAD_group2_5 ("И ТАК"): WhosOnFirst/rule_KEYPAD_group2_10 ("ЖМИ"), WhosOnFirst/rule_KEYPAD_group2_6 ("ИТАК"), WhosOnFirst/rule_KEYPAD_group2_5 ("И ТАК"), WhosOnFirst/rule_KEYPAD_group2_7 ("ПАС"), WhosOnFirst/rule_KEYPAD_group2_9 ("ПАЗ"), WhosOnFirst/rule_KEYPAD_group2_13 ("ЧЕ?"), WhosOnFirst/rule_KEYPAD_group2_3 ("ВСЕ"), WhosOnFirst/rule_KEYPAD_group2_12 ("ЧЁ?"), WhosOnFirst/rule_KEYPAD_group2_4 ("ВСЁ"), WhosOnFirst/rule_KEYPAD_group2_14 ("ЧТО?"), WhosOnFirst/rule_KEYPAD_group2_11 ("ДАЛЬШЕ"), WhosOnFirst/rule_KEYPAD_group2_8 ("ПАСС"), WhosOnFirst/rule_KEYPAD_group2_2 ("ВОВСЕ"), WhosOnFirst/rule_KEYPAD_group2_1 ("ВО ВСЕ")
+WhosOnFirst/rule_KEYPAD_group2_6 ("ИТАК"): WhosOnFirst/rule_KEYPAD_group2_7 ("ПАС"), WhosOnFirst/rule_KEYPAD_group2_13 ("ЧЕ?"), WhosOnFirst/rule_KEYPAD_group2_11 ("ДАЛЬШЕ"), WhosOnFirst/rule_KEYPAD_group2_9 ("ПАЗ"), WhosOnFirst/rule_KEYPAD_group2_4 ("ВСЁ"), WhosOnFirst/rule_KEYPAD_group2_5 ("И ТАК"), WhosOnFirst/rule_KEYPAD_group2_8 ("ПАСС"), WhosOnFirst/rule_KEYPAD_group2_10 ("ЖМИ"), WhosOnFirst/rule_KEYPAD_group2_6 ("ИТАК"), WhosOnFirst/rule_KEYPAD_group2_1 ("ВО ВСЕ"), WhosOnFirst/rule_KEYPAD_group2_14 ("ЧТО?"), WhosOnFirst/rule_KEYPAD_group2_12 ("ЧЁ?"), WhosOnFirst/rule_KEYPAD_group2_2 ("ВОВСЕ"), WhosOnFirst/rule_KEYPAD_group2_3 ("ВСЕ")
+WhosOnFirst/rule_KEYPAD_group2_7 ("ПАС"): WhosOnFirst/rule_KEYPAD_group2_7 ("ПАС"), WhosOnFirst/rule_KEYPAD_group2_3 ("ВСЕ"), WhosOnFirst/rule_KEYPAD_group2_2 ("ВОВСЕ"), WhosOnFirst/rule_KEYPAD_group2_1 ("ВО ВСЕ"), WhosOnFirst/rule_KEYPAD_group2_10 ("ЖМИ"), WhosOnFirst/rule_KEYPAD_group2_12 ("ЧЁ?"), WhosOnFirst/rule_KEYPAD_group2_8 ("ПАСС"), WhosOnFirst/rule_KEYPAD_group2_11 ("ДАЛЬШЕ"), WhosOnFirst/rule_KEYPAD_group2_13 ("ЧЕ?"), WhosOnFirst/rule_KEYPAD_group2_14 ("ЧТО?"), WhosOnFirst/rule_KEYPAD_group2_4 ("ВСЁ"), WhosOnFirst/rule_KEYPAD_group2_5 ("И ТАК"), WhosOnFirst/rule_KEYPAD_group2_6 ("ИТАК"), WhosOnFirst/rule_KEYPAD_group2_9 ("ПАЗ")
+WhosOnFirst/rule_KEYPAD_group2_8 ("ПАСС"): WhosOnFirst/rule_KEYPAD_group2_5 ("И ТАК"), WhosOnFirst/rule_KEYPAD_group2_6 ("ИТАК"), WhosOnFirst/rule_KEYPAD_group2_2 ("ВОВСЕ"), WhosOnFirst/rule_KEYPAD_group2_4 ("ВСЁ"), WhosOnFirst/rule_KEYPAD_group2_11 ("ДАЛЬШЕ"), WhosOnFirst/rule_KEYPAD_group2_8 ("ПАСС"), WhosOnFirst/rule_KEYPAD_group2_10 ("ЖМИ"), WhosOnFirst/rule_KEYPAD_group2_1 ("ВО ВСЕ"), WhosOnFirst/rule_KEYPAD_group2_7 ("ПАС"), WhosOnFirst/rule_KEYPAD_group2_14 ("ЧТО?"), WhosOnFirst/rule_KEYPAD_group2_3 ("ВСЕ"), WhosOnFirst/rule_KEYPAD_group2_13 ("ЧЕ?"), WhosOnFirst/rule_KEYPAD_group2_12 ("ЧЁ?"), WhosOnFirst/rule_KEYPAD_group2_9 ("ПАЗ")
+WhosOnFirst/rule_KEYPAD_group2_9 ("ПАЗ"): WhosOnFirst/rule_KEYPAD_group2_1 ("ВО ВСЕ"), WhosOnFirst/rule_KEYPAD_group2_12 ("ЧЁ?"), WhosOnFirst/rule_KEYPAD_group2_4 ("ВСЁ"), WhosOnFirst/rule_KEYPAD_group2_3 ("ВСЕ"), WhosOnFirst/rule_KEYPAD_group2_6 ("ИТАК"), WhosOnFirst/rule_KEYPAD_group2_10 ("ЖМИ"), WhosOnFirst/rule_KEYPAD_group2_8 ("ПАСС"), WhosOnFirst/rule_KEYPAD_group2_14 ("ЧТО?"), WhosOnFirst/rule_KEYPAD_group2_2 ("ВОВСЕ"), WhosOnFirst/rule_KEYPAD_group2_7 ("ПАС"), WhosOnFirst/rule_KEYPAD_group2_5 ("И ТАК"), WhosOnFirst/rule_KEYPAD_group2_11 ("ДАЛЬШЕ"), WhosOnFirst/rule_KEYPAD_group2_9 ("ПАЗ"), WhosOnFirst/rule_KEYPAD_group2_13 ("ЧЕ?")
+WhosOnFirst/rule_KEYPAD_group2_10 ("ЖМИ"): WhosOnFirst/rule_KEYPAD_group2_13 ("ЧЕ?"), WhosOnFirst/rule_KEYPAD_group2_7 ("ПАС"), WhosOnFirst/rule_KEYPAD_group2_11 ("ДАЛЬШЕ"), WhosOnFirst/rule_KEYPAD_group2_9 ("ПАЗ"), WhosOnFirst/rule_KEYPAD_group2_3 ("ВСЕ"), WhosOnFirst/rule_KEYPAD_group2_5 ("И ТАК"), WhosOnFirst/rule_KEYPAD_group2_4 ("ВСЁ"), WhosOnFirst/rule_KEYPAD_group2_12 ("ЧЁ?"), WhosOnFirst/rule_KEYPAD_group2_14 ("ЧТО?"), WhosOnFirst/rule_KEYPAD_group2_1 ("ВО ВСЕ"), WhosOnFirst/rule_KEYPAD_group2_6 ("ИТАК"), WhosOnFirst/rule_KEYPAD_group2_2 ("ВОВСЕ"), WhosOnFirst/rule_KEYPAD_group2_8 ("ПАСС"), WhosOnFirst/rule_KEYPAD_group2_10 ("ЖМИ")
+WhosOnFirst/rule_KEYPAD_group2_11 ("ДАЛЬШЕ"): WhosOnFirst/rule_KEYPAD_group2_9 ("ПАЗ"), WhosOnFirst/rule_KEYPAD_group2_7 ("ПАС"), WhosOnFirst/rule_KEYPAD_group2_8 ("ПАСС"), WhosOnFirst/rule_KEYPAD_group2_3 ("ВСЕ"), WhosOnFirst/rule_KEYPAD_group2_12 ("ЧЁ?"), WhosOnFirst/rule_KEYPAD_group2_13 ("ЧЕ?"), WhosOnFirst/rule_KEYPAD_group2_11 ("ДАЛЬШЕ"), WhosOnFirst/rule_KEYPAD_group2_14 ("ЧТО?"), WhosOnFirst/rule_KEYPAD_group2_10 ("ЖМИ"), WhosOnFirst/rule_KEYPAD_group2_2 ("ВОВСЕ"), WhosOnFirst/rule_KEYPAD_group2_5 ("И ТАК"), WhosOnFirst/rule_KEYPAD_group2_4 ("ВСЁ"), WhosOnFirst/rule_KEYPAD_group2_6 ("ИТАК"), WhosOnFirst/rule_KEYPAD_group2_1 ("ВО ВСЕ")
+WhosOnFirst/rule_KEYPAD_group2_12 ("ЧЁ?"): WhosOnFirst/rule_KEYPAD_group2_2 ("ВОВСЕ"), WhosOnFirst/rule_KEYPAD_group2_6 ("ИТАК"), WhosOnFirst/rule_KEYPAD_group2_10 ("ЖМИ"), WhosOnFirst/rule_KEYPAD_group2_8 ("ПАСС"), WhosOnFirst/rule_KEYPAD_group2_1 ("ВО ВСЕ"), WhosOnFirst/rule_KEYPAD_group2_5 ("И ТАК"), WhosOnFirst/rule_KEYPAD_group2_13 ("ЧЕ?"), WhosOnFirst/rule_KEYPAD_group2_9 ("ПАЗ"), WhosOnFirst/rule_KEYPAD_group2_4 ("ВСЁ"), WhosOnFirst/rule_KEYPAD_group2_11 ("ДАЛЬШЕ"), WhosOnFirst/rule_KEYPAD_group2_12 ("ЧЁ?"), WhosOnFirst/rule_KEYPAD_group2_7 ("ПАС"), WhosOnFirst/rule_KEYPAD_group2_3 ("ВСЕ"), WhosOnFirst/rule_KEYPAD_group2_14 ("ЧТО?")
+WhosOnFirst/rule_KEYPAD_group2_13 ("ЧЕ?"): WhosOnFirst/rule_KEYPAD_group2_2 ("ВОВСЕ"), WhosOnFirst/rule_KEYPAD_group2_10 ("ЖМИ"), WhosOnFirst/rule_KEYPAD_group2_14 ("ЧТО?"), WhosOnFirst/rule_KEYPAD_group2_4 ("ВСЁ"), WhosOnFirst/rule_KEYPAD_group2_1 ("ВО ВСЕ"), WhosOnFirst/rule_KEYPAD_group2_12 ("ЧЁ?"), WhosOnFirst/rule_KEYPAD_group2_7 ("ПАС"), WhosOnFirst/rule_KEYPAD_group2_5 ("И ТАК"), WhosOnFirst/rule_KEYPAD_group2_13 ("ЧЕ?"), WhosOnFirst/rule_KEYPAD_group2_6 ("ИТАК"), WhosOnFirst/rule_KEYPAD_group2_9 ("ПАЗ"), WhosOnFirst/rule_KEYPAD_group2_11 ("ДАЛЬШЕ"), WhosOnFirst/rule_KEYPAD_group2_3 ("ВСЕ"), WhosOnFirst/rule_KEYPAD_group2_8 ("ПАСС")
+WhosOnFirst/rule_KEYPAD_group2_14 ("ЧТО?"): WhosOnFirst/rule_KEYPAD_group2_4 ("ВСЁ"), WhosOnFirst/rule_KEYPAD_group2_11 ("ДАЛЬШЕ"), WhosOnFirst/rule_KEYPAD_group2_6 ("ИТАК"), WhosOnFirst/rule_KEYPAD_group2_5 ("И ТАК"), WhosOnFirst/rule_KEYPAD_group2_12 ("ЧЁ?"), WhosOnFirst/rule_KEYPAD_group2_10 ("ЖМИ"), WhosOnFirst/rule_KEYPAD_group2_8 ("ПАСС"), WhosOnFirst/rule_KEYPAD_group2_9 ("ПАЗ"), WhosOnFirst/rule_KEYPAD_group2_7 ("ПАС"), WhosOnFirst/rule_KEYPAD_group2_1 ("ВО ВСЕ"), WhosOnFirst/rule_KEYPAD_group2_14 ("ЧТО?"), WhosOnFirst/rule_KEYPAD_group2_13 ("ЧЕ?"), WhosOnFirst/rule_KEYPAD_group2_2 ("ВОВСЕ"), WhosOnFirst/rule_KEYPAD_group2_3 ("ВСЕ")
+
+
+[BombRules] Memory Rules:
+Stage 1:
+If the display is 1, press the button in the second position.
+If the display is 2, press the button in the second position.
+If the display is 3, press the button in the third position.
+If the display is 4, press the button in the fourth position.
+
+Stage 2:
+If the display is 1, press the button labeled "4".
+If the display is 2, press the button in the same position as you pressed in stage 1.
+If the display is 3, press the button in the first position.
+If the display is 4, press the button in the same position as you pressed in stage 1.
+
+Stage 3:
+If the display is 1, press the button with the same label you pressed in stage 2.
+If the display is 2, press the button with the same label you pressed in stage 1.
+If the display is 3, press the button in the third position.
+If the display is 4, press the button labeled "4".
+
+Stage 4:
+If the display is 1, press the button in the same position as you pressed in stage 1.
+If the display is 2, press the button in the first position.
+If the display is 3, press the button in the same position as you pressed in stage 2.
+If the display is 4, press the button in the same position as you pressed in stage 2.
+
+Stage 5:
+If the display is 1, press the button with the same label you pressed in stage 1.
+If the display is 2, press the button with the same label you pressed in stage 2.
+If the display is 3, press the button with the same label you pressed in stage 4.
+If the display is 4, press the button with the same label you pressed in stage 3.
+
+
+
+[BombRules] Morse Code Rules:
+FrequencyTermMap: 
+MorseComponent/rule_Option17 ("токарь"): 3.505 MHz
+MorseComponent/rule_Option16 ("мостик"): 3.515 MHz
+MorseComponent/rule_Option20 ("венок"): 3.522 MHz
+MorseComponent/rule_Option1 ("брать"): 3.532 MHz
+MorseComponent/rule_Option5 ("клара"): 3.535 MHz
+MorseComponent/rule_Option11 ("попей"): 3.542 MHz
+MorseComponent/rule_Option19 ("виток"): 3.545 MHz
+MorseComponent/rule_Option18 ("восток"): 3.552 MHz
+MorseComponent/rule_Option21 ("вилка"): 3.555 MHz
+MorseComponent/rule_Option8 ("порок"): 3.565 MHz
+MorseComponent/rule_Option14 ("койка"): 3.572 MHz
+MorseComponent/rule_Option13 ("рокер"): 3.575 MHz
+MorseComponent/rule_Option10 ("помой"): 3.582 MHz
+MorseComponent/rule_Option9 ("покой"): 3.592 MHz
+MorseComponent/rule_Option3 ("борис"): 3.595 MHz
+MorseComponent/rule_Option7 ("порог"): 3.600 MHz
+
+
+[BombRules] Venn Wire Rules:
+[Red:False Blue:False Symbol:False LED:False]: Cut
+[Red:False Blue:False Symbol:False LED:True]: DoNotCut
+[Red:False Blue:False Symbol:True LED:False]: Cut
+[Red:False Blue:False Symbol:True LED:True]: CutIfTwoOrMoreBatteriesPresent
+[Red:False Blue:True Symbol:False LED:False]: CutIfSerialEven
+[Red:False Blue:True Symbol:False LED:True]: CutIfParallelPortPresent
+[Red:False Blue:True Symbol:True LED:False]: DoNotCut
+[Red:False Blue:True Symbol:True LED:True]: CutIfParallelPortPresent
+[Red:True Blue:False Symbol:False LED:False]: CutIfSerialEven
+[Red:True Blue:False Symbol:False LED:True]: CutIfTwoOrMoreBatteriesPresent
+[Red:True Blue:False Symbol:True LED:False]: Cut
+[Red:True Blue:False Symbol:True LED:True]: CutIfTwoOrMoreBatteriesPresent
+[Red:True Blue:True Symbol:False LED:False]: CutIfSerialEven
+[Red:True Blue:True Symbol:False LED:True]: CutIfSerialEven
+[Red:True Blue:True Symbol:True LED:False]: CutIfParallelPortPresent
+[Red:True Blue:True Symbol:True LED:True]: DoNotCut
+
+
+[BombRules] Wire Sequence Rules:
+BLACK Wires: First: [A, B or C], Second: [A or C], Third: [B], Fourth: [A or C], Fifth: [B], Sixth: [B or C], Seventh: [A or B], Eighth: [C], Ninth: [C], 
+BLUE Wires: First: [B], Second: [A or C], Third: [B], Fourth: [A], Fifth: [B], Sixth: [B or C], Seventh: [C], Eighth: [A or C], Ninth: [A], 
+RED Wires: First: [C], Second: [B], Third: [A], Fourth: [A or C], Fifth: [B], Sixth: [A or C], Seventh: [A, B or C], Eighth: [A or B], Ninth: [B], 
+
+
+[BombRules] Maze Rules:
+Maze 0: 6,320,400,384,384,256,288,96,320,288,352,96,224,192,160,192,32,192,288,320,288,320,160,320,160,96,96,96,352,224,352,224,192,144,128,384,160
+Maze 1: 6,352,320,384,256,384,416,64,160,320,176,448,288,224,320,160,320,384,160,320,160,320,160,320,288,64,304,96,448,160,96,224,192,128,384,384,160
+Maze 2: 6,320,416,320,384,384,288,96,448,128,384,288,96,192,384,384,384,160,96,448,288,320,400,384,160,320,160,192,384,384,288,192,384,384,400,384,160
+Maze 3: 6,336,384,384,400,256,288,192,384,288,352,96,96,352,320,160,96,96,224,96,96,320,32,96,352,96,96,224,96,192,160,192,128,384,128,384,416
+Maze 4: 6,352,320,256,384,384,416,96,96,192,288,320,288,96,96,352,96,96,96,96,64,160,192,32,112,64,160,336,416,224,96,192,416,192,384,384,160
+Maze 5: 6,448,384,256,288,320,288,320,384,160,192,160,96,192,384,416,320,432,96,352,320,384,128,384,160,80,160,320,384,288,352,192,384,160,448,128,160
+Maze 6: 6,320,384,288,320,384,288,112,320,160,192,416,112,96,224,320,256,288,96,192,288,224,96,96,96,320,160,320,160,192,32,192,384,160,448,384,160
+Maze 7: 6,448,256,384,384,384,288,320,32,320,288,448,32,96,224,96,208,288,96,208,288,96,352,96,96,320,160,192,32,96,96,192,384,384,160,224,224
+Maze 8: 6,448,384,256,384,400,288,320,384,32,448,384,160,96,336,160,320,384,288,96,224,320,160,320,160,64,384,160,352,192,288,192,384,384,128,416,224
+
+
+[BombRules] Password Rules:
+Possibilities: АЛЛЕЯ, БОМБА, ВВЕРХ, ВЗРЫВ, ВНИЗУ, ВЬЮГА, ГОРОХ, ГОТОВ, ГУСТО, ДАВАЙ, ДАВНО, КНИГА, КОНЕЦ, ЛИЛИЯ, ЛИНИЯ, МОЖНО, НАЗАД, НРАВЫ, ПЕСЕЦ, ПЕСНЯ, ПОРОХ, ПОРЫВ, ПОТОМ, ПРАВО, ПУСТО, РУМБА, СКОРО, СУПЕР, ТРАВЫ, ТУМБА, ТУНЕЦ, ФУГАС, ШПРИЦ, ЩИПОК, ЩИПЦЫ
+
+[BombRules] Needy Knob Rules:
+Up Position:
+OOXOXX
+XXXXOX
+
+XOXOXO
+OXXOXX
+
+Down Position:
+OXXOOX
+XXXXOX
+
+XOXOXO
+OXOOOX
+
+Left Position:
+OOOOXO
+XOOXXX
+
+OOOOXO
+OOOXXO
+
+Right Position:
+XOXXXX
+XXXOXO
+
+XOXXOO
+XXXOXO
+
+
+
+[Rules] BombRules generation complete.
+
+First time loading the title scene: instantiating OneTimeLoad objects!
+Initializing BuildInfoManager...
+Bundle Version: 1.9.10
+Fallback handler could not load library F:/games/Keep Talking and Nobody Explodes v1.9.10/ktane_Data/Mono/XInputInterface32
+Fallback handler could not load library F:/games/Keep Talking and Nobody Explodes v1.9.10/ktane_Data/Mono/.\XInputInterface32
+Fallback handler could not load library F:/games/Keep Talking and Nobody Explodes v1.9.10/ktane_Data/Mono/XInputInterface32
+Fallback handler could not load library F:/games/Keep Talking and Nobody Explodes v1.9.10/ktane_Data/Mono/libXInputInterface32
+Fallback handler could not load library F:/games/Keep Talking and Nobody Explodes v1.9.10/ktane_Data/Mono/.\libXInputInterface32
+Fallback handler could not load library F:/games/Keep Talking and Nobody Explodes v1.9.10/ktane_Data/Mono/libXInputInterface32
+Failed to find a xinput dll, or no xinput controller is connected.
+InControl (version 1.6.15 build 9080)
+[SecondScreenInteractiveManual] Changing state from Loading to Loading
+
+[KTEasyFeedbackForm] KTEasyFeedbackForm created.
+
+[KTInputManager] InControl Platform: WINDOWS 10 ENTERPRISE 64BIT BUILD 17134
+
+[KTInputManager] InControl Devices: 0
+
+[KTInputManager] Active device: None () [Supported] [Platform: WINDOWS 10 ENTERPRISE 64BIT BUILD 17134]
+
+[KTInputManager] Active SecondScreen device: None () [Supported] [Platform: WINDOWS 10 ENTERPRISE 64BIT BUILD 17134]
+
+Configuring using external log config file: F:\games\Keep Talking and Nobody Explodes v1.9.10\logConfig.xml.
+[Logging] Logging successfully configured from external file.
+
+[UserManager] Initialized UserManager
+
+[ServicesSteam] Steamworks.NET is initialized. Now logged in as VALVE!
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 710 unused Assets to reduce memory usage. Loaded Objects now: 7940.
+Total: 54.104000 ms (FindLiveObjects: 0.642700 ms CreateObjectMapping: 0.379600 ms MarkObjects: 52.647800 ms  DeleteObjects: 0.433000 ms)
+
+No Playlist Controllers exist in the Scene. Music will not play.
+[SecondScreenManager] VRMode=false, disabling.
+
+[SecondScreenManager] SecondScreen mode changed from Disabled to Disabled
+
+[LoadingManager] Loading: mainScene
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+[LoadingManager] Finished loading: 3.77 sec(s)
+
+[LoadingManager] Could not find any connected and supported InControl devices. Prompting user to connect, if the current platform has a native prompt...
+
+[LoadingManager] Received mouse input to continue.
+
+[KTInputManager] Requested setting control type to: Mouse
+
+[KTInputManager] Control type supported. Settting control type to: Mouse
+
+[LoadingManager] Engagement complete. Loading main scene...
+
+[FileUtilityHelper] Attempting to load "C:/Users/Роман Ширяев/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\demoSettings.xml"...
+
+[FileUtilityHelper] Failed to load "C:/Users/Роман Ширяев/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\demoSettings.xml": Could not find file "C:\Users\Роман Ширяев\AppData\LocalLow\Steel Crate Games\Keep Talking and Nobody Explodes\demoSettings.xml".
+
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[DemoManager] Failed to load demo settings from user path, looking for demoSettings.xml next to executable.
+
+[FileUtilityHelper] Attempting to load "demoSettings.xml"...
+
+[FileUtilityHelper] Successfully loaded "demoSettings.xml".
+
+[DemoManager] Saving demo settings.
+
+[FileUtilityHelper] Attempting to save "C:/Users/Роман Ширяев/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\demoSettings.xml"...
+
+[FileUtilityHelper] Successfully saved "C:/Users/Роман Ширяев/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\demoSettings.xml".
+
+[DemoManager] Demo settings: [Mode: Off], [DisableAlarmClockSound: False], [SkipVerificationFlow: False], [ForgetLastGameSettings: False]
+
+[FileUtilityHelper] Attempting to load "C:/Users/Роман Ширяев/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\tournamentSettings.xml"...
+
+[FileUtilityHelper] Failed to load "C:/Users/Роман Ширяев/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\tournamentSettings.xml": Could not find file "C:\Users\Роман Ширяев\AppData\LocalLow\Steel Crate Games\Keep Talking and Nobody Explodes\tournamentSettings.xml".
+
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[TournamentManager] Failed to load tournament settings from user path, looking for tournamentSettings.xml next to executable.
+
+[FileUtilityHelper] Attempting to load "tournamentSettings.xml"...
+
+[FileUtilityHelper] Failed to load "tournamentSettings.xml": Could not find file "F:\games\Keep Talking and Nobody Explodes v1.9.10\tournamentSettings.xml".
+
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[TournamentManager] Failed to load tournament settings from executable path. Creating default tournament settings.
+
+[TournamentManager] Tournament settings: Name: Test Tournament
+Teams: 2
+Missions: firsttime,somethingoldsomethingnew,onestepup
+TieBreaker: firsttime
+Turn Order: Snake
+SeedStyle: GenerateSame 
+PacingEvents: ForceOneMinuteLeftOnly
+
+[FileUtilityHelper] Attempting to load "C:/Users/Роман Ширяев/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\modSettings.xml"...
+
+[FileUtilityHelper] Failed to load "C:/Users/Роман Ширяев/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\modSettings.xml": Could not find file "C:\Users\Роман Ширяев\AppData\LocalLow\Steel Crate Games\Keep Talking and Nobody Explodes\modSettings.xml".
+
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[FileUtilityHelper] Attempting to save "C:/Users/Роман Ширяев/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\modSettings.xml"...
+
+[FileUtilityHelper] Successfully saved "C:/Users/Роман Ширяев/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\modSettings.xml".
+
+[ModSettingsManager] Assets.Scripts.Settings.ModSettings
+
+[StatsManager] Loading stats from stats.xml...
+
+[FileUtilityHelper] Attempting to load "C:/Users/Роман Ширяев/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\stats.xml"...
+
+[FileUtilityHelper] Failed to load "C:/Users/Роман Ширяев/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\stats.xml": Could not find file "C:\Users\Роман Ширяев\AppData\LocalLow\Steel Crate Games\Keep Talking and Nobody Explodes\stats.xml".
+
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[StatsManager] No stats found.
+
+[StatsManager] Recorded Stats:
+
+[StatsManager] Recorded Achievements:
+
+UnloadTime: 1.667700 ms
+[MissionManager] MissionManager initialized. 34 missions available.
+
+[RecordManager] Loading records from records.xml...
+
+[FileUtilityHelper] Attempting to load "C:/Users/Роман Ширяев/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\records.xml"...
+
+[FileUtilityHelper] Failed to load "C:/Users/Роман Ширяев/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\records.xml": Could not find file "C:\Users\Роман Ширяев\AppData\LocalLow\Steel Crate Games\Keep Talking and Nobody Explodes\records.xml".
+
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[RecordManager] No records found.
+
+[RecordManager] Loading best time records from best_times.xml...
+
+[FileUtilityHelper] Attempting to load "C:/Users/Роман Ширяев/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\best_times.xml"...
+
+[FileUtilityHelper] Failed to load "C:/Users/Роман Ширяев/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\best_times.xml": Could not find file "C:\Users\Роман Ширяев\AppData\LocalLow\Steel Crate Games\Keep Talking and Nobody Explodes\best_times.xml".
+
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[RecordManager] No best time records found.
+
+[RecordManager] 0 recent records found:
+
+[RecordManager] Recent Record Summary: Success: 0 ExplodeDueToStrikes: 0 ExplodeDueToTime: 0
+
+[RecordManager] 0 Best Time records found:
+
+[SceneManager] Creating game states...
+
+[PrefabOverride] Prefab override: InputBased: True, CurrentControlType: Mouse, Path: "PC/Prefabs/ControlsPoster/ControlsPoster_mouse"
+
+[MissionTableOfContentsPageManager] Showing ToC 0 page 0.
+
+[MaterialOverride] Material override: InputBased: True, CurrentControlType: Mouse, Path: "PC/Materials/controls_poster_mouse"
+
+[LeaderboardBulkSubmissionWorker] Submitting all unreported leaderboard scores.
+
+[LeaderboardBulkSubmissionWorker] Finished submitting all unreported leaderboard scores.
+
+[ServicesSteam] Received user stats from Steam for game id 341800
+
+[ServicesSteam] Steam achievement id firstbomb was unlocked remotely but is not unlocked locally. Recording unlock locally...
+
+[ServicesSteam] Successfully submitted achievement unlock to Steam. This has not yet been synced to their server, though.
+
+[StatsManager] Achievement 'firstbomb' unlocked! (first unlock)
+
+[ServicesSteam] Replacing stat value thebasicsprogress with larger remote value 4
+
+[ServicesSteam] Successfully submitted stat id thebasicsprogress change to int value 4 to Steam. This has not yet been synced to their server, though.
+
+[StatsManager] Stat 'thebasicsprogress' changed from 0 to 4
+
+[ServicesSteam] Choosing not to send achivement unlock to steam because achivement id allthebasics is not AchievementType.OneTime (or there is no achivement info for this id)
+
+[StatsManager] Achievement 'thebasicsprogress' unlocked! (first unlock)
+
+[ServicesSteam] Replacing stat value moderateprogress with larger remote value 6
+
+[ServicesSteam] Successfully submitted stat id moderateprogress change to int value 6 to Steam. This has not yet been synced to their server, though.
+
+[StatsManager] Stat 'moderateprogress' changed from 0 to 6
+
+[ServicesSteam] Replacing stat value moduletypeprogress with larger remote value 9
+
+[ServicesSteam] Successfully submitted stat id moduletypeprogress change to int value 9 to Steam. This has not yet been synced to their server, though.
+
+[StatsManager] Stat 'moduletypeprogress' changed from 0 to 9
+
+[ServicesSteam] Replacing stat value totalstrikes with larger remote value 14
+
+[ServicesSteam] Successfully submitted stat id totalstrikes change to int value 14 to Steam. This has not yet been synced to their server, though.
+
+[StatsManager] Stat 'totalstrikes' changed from 0 to 14
+
+[ServicesSteam] Replacing stat value totalmodulesdisarmed with larger remote value 90
+
+[ServicesSteam] Successfully submitted stat id totalmodulesdisarmed change to int value 90 to Steam. This has not yet been synced to their server, though.
+
+[StatsManager] Stat 'totalmodulesdisarmed' changed from 0 to 90
+
+[ServicesSteam] Replacing stat value totalbombsexploded with larger remote value 12
+
+[ServicesSteam] Successfully submitted stat id totalbombsexploded change to int value 12 to Steam. This has not yet been synced to their server, though.
+
+[StatsManager] Stat 'totalbombsexploded' changed from 0 to 12
+
+[ServicesSteam] Replacing stat value totalbombsdefused with larger remote value 11
+
+[ServicesSteam] Successfully submitted stat id totalbombsdefused change to int value 11 to Steam. This has not yet been synced to their server, though.
+
+[StatsManager] Stat 'totalbombsdefused' changed from 0 to 11
+
+[ServicesSteam] Finished merging existing stats and achievements
+
+[ServicesSteam] Sent request to store stats to Steam.
+
+
+Unloading 176 unused Assets to reduce memory usage. Loaded Objects now: 37697.
+Total: 85.385600 ms (FindLiveObjects: 3.580800 ms CreateObjectMapping: 4.404900 ms MarkObjects: 75.945100 ms  DeleteObjects: 1.454400 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+[UnlockState] Entered UnlockState of DisplayType AllApplicableScreens
+
+[PrefabOverride] Prefab override: InputBased: True, CurrentControlType: Mouse, Path: "PC/Prefabs/TitleMenu/ControlsTutorialDiagramMouse"
+
+[PrefabOverride] Prefab override: InputBased: True, CurrentControlType: Mouse, Path: "PC/Prefabs/ControlsPoster/ControlsPoster_mouse"
+
+[MaterialOverride] Material override: InputBased: True, CurrentControlType: Mouse, Path: "PC/Materials/controls_poster_unlit_mouse"
+
+[SceneManager] Fading in...
+
+
+Unloading 400 unused Assets to reduce memory usage. Loaded Objects now: 46198.
+Total: 98.363200 ms (FindLiveObjects: 4.001800 ms CreateObjectMapping: 4.366100 ms MarkObjects: 89.229000 ms  DeleteObjects: 0.766100 ms)
+
+[MenuScreen] Entering screen LearnMoreScreenNonVR
+
+[MenuScreen] Leaving screen LearnMoreScreenNonVR
+
+[MenuScreen] Entering screen VerificationScreen
+
+[MenuScreen] Submitted verification code 137 for manual version 1-ru
+
+[MenuScreen] Verification code 137 is incorrect! (expected 117)
+
+[MenuScreen] Submitted verification code 173 for manual version 1-ru
+
+[MenuScreen] Verification code 173 is incorrect! (expected 117)
+
+[MenuScreen] Submitted verification code 241 for manual version 1-ru
+
+[MenuScreen] Verification code 241 is incorrect! (expected 117)
+
+[MenuScreen] Submitted verification code 117 for manual version 1-ru
+
+[MenuScreen] Verification code 117 is correct!
+
+[MenuScreen] Leaving screen VerificationScreen
+
+[MenuScreen] Entering screen ControlsTutorialIntro
+
+[MenuScreen] Leaving screen ControlsTutorialIntro
+
+[MenuScreen] Entering screen ControlsTutorialScreen
+
+[WireSetComponent] Wires.Count is now 5
+
+[MenuScreen] Entering screen DossierTitleMenuScreen
+
+[PrefabOverride] Prefab override: InputBased: True, CurrentControlType: Mouse, Path: "PC/Prefabs/DossierMenu/DossierControls_Mouse"
+
+[TMP_SubMesh] FallbackMaterial (SpecialElite SDF Material) is being used for game object title with text ""
+
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[CommonMenuUtil] ReturnToLauncher
+
+[SceneManager] Fading out and exiting.
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 333c -> priority: 1 
+  Thread -> id: 2658 -> priority: 1 
+NullReferenceException: Object reference not set to an instance of an object
+  at ControlsTutorialScreen.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+

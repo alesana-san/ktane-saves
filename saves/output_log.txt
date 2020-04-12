@@ -1,13 +1,14 @@
 Initialize engine version: 2017.4.22f1 (eb4bc6fa7f1d)
 GfxDevice: creating device client; threaded=1
+d3d11: D3D_FEATURE_LEVEL_11_1 not-recognized (only 11.0 runtime installed?)
 Direct3D:
     Version:  Direct3D 11.0 [level 11.0]
-    Renderer: NVIDIA GeForce GT 740M (ID=0xfdf)
+    Renderer: NVIDIA GeForce GTX 560 Ti (ID=0x1200)
     Vendor:   NVIDIA
-    VRAM:     2009 MB
-    Driver:   25.21.14.1681
+    VRAM:     978 MB
+    Driver:   21.21.13.7270
 Begin MonoManager ReloadAssembly
-- Completed reload, in  1.960 seconds
+- Completed reload, in  0.057 seconds
 OnLevelWasLoaded was found on LeanTween
 This message has been deprecated and will be removed in a later version of Unity.
 Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
@@ -23,8 +24,8 @@ XR: OpenVR Error! OpenVR failed initialization with error code VRInitError_Init_
  
 (Filename:  Line: 1590)
 
-UnloadTime: 1.797400 ms
-Resolution requested: 1366x768
+UnloadTime: 0.610362 ms
+Resolution requested: 1920x1080
  
 (Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
@@ -33,55 +34,79 @@ Configuring logging from embedded logConfig asset.
 
 [Logging] Logging start.
 
-[FileUtilityHelper] Attempting to load "C:/Users/Роман Ширяев/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\playerSettings.xml"...
+[FileUtilityHelper] Attempting to load "C:/Users/Алексей/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\playerSettings.xml"...
 
-[FileUtilityHelper] Failed to load "C:/Users/Роман Ширяев/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\playerSettings.xml": Could not find file "C:\Users\Роман Ширяев\AppData\LocalLow\Steel Crate Games\Keep Talking and Nobody Explodes\playerSettings.xml".
+[FileUtilityHelper] Successfully loaded "C:/Users/Алексей/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\playerSettings.xml".
 
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-[FileUtilityHelper] Attempting to save "C:/Users/Роман Ширяев/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\playerSettings.xml"...
-
-[FileUtilityHelper] Successfully saved "C:/Users/Роман Ширяев/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\playerSettings.xml".
-
-[PlayerSettingsManager] PlayerSettings: InvertTiltControls: False, TouchpadInvert: False, RumbleEnabled: True, MusicVolume: 100, SFXVolume: 100, AntiAliasing: 4, VRModeRequested: True, SecondScreenMode: InteractiveManual, VSync: 1, AccessibilitySettings: Empty, Empty, Empty, DisabledControlTypes: None LanguageCode: None
+[PlayerSettingsManager] PlayerSettings: InvertTiltControls: False, TouchpadInvert: False, RumbleEnabled: True, MusicVolume: 0, SFXVolume: 100, AntiAliasing: 4, VRModeRequested: True, SecondScreenMode: InteractiveManual, VSync: 1, AccessibilitySettings: Empty, Empty, Empty, DisabledControlTypes: None LanguageCode: ru
 
 [ProgressionManager] Loading progression data...
 
-[FileUtilityHelper] Attempting to load "C:/Users/Роман Ширяев/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\progression.xml"...
+[FileUtilityHelper] Attempting to load "C:/Users/Алексей/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\progression.xml"...
 
-[FileUtilityHelper] Failed to load "C:/Users/Роман Ширяев/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\progression.xml": Could not find file "C:\Users\Роман Ширяев\AppData\LocalLow\Steel Crate Games\Keep Talking and Nobody Explodes\progression.xml".
-
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-[ProgressionManager] No progression data found.
+[FileUtilityHelper] Successfully loaded "C:/Users/Алексей/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\progression.xml".
 
 [ProgressionManager] Progression summary:
 
-[ProgressionManager] Last Unlocked Bomb Classification: (None)
+[ProgressionManager] Last Unlocked Bomb Classification: 1-ru
 
-[ProgressionManager] No mission progression found.
+[ProgressionManager] MissionID: gameoverviewtutorial Beaten: True
 
-[ProgressionManager] No disarmed components.
+[ProgressionManager] MissionID: controlstutorial Beaten: True
+
+[ProgressionManager] MissionID: firsttime Beaten: True
+
+[ProgressionManager] MissionID: onestepup Beaten: True
+
+[ProgressionManager] MissionID: pickupthepace Beaten: True
+
+[ProgressionManager] MissionID: somethingoldsomethingnew Beaten: True
+
+[ProgressionManager] MissionID: doubleyourmoney Beaten: True
+
+[ProgressionManager] MissionID: ahiddenmessage Beaten: True
+
+[ProgressionManager] MissionID: somethingsdifferent Beaten: True
+
+[ProgressionManager] MissionID: giantleap Beaten: True
+
+[ProgressionManager] Disarmed component: BigButton
+
+[ProgressionManager] Disarmed component: Wires
+
+[ProgressionManager] Disarmed component: Keypad
+
+[ProgressionManager] Disarmed component: Maze
+
+[ProgressionManager] Disarmed component: Memory
+
+[ProgressionManager] Disarmed component: WhosOnFirst
+
+[ProgressionManager] Disarmed component: Simon
+
+[ProgressionManager] Disarmed component: Password
+
+[ProgressionManager] Disarmed component: Venn
+
+[ProgressionManager] Disarmed component: Morse
 
 [LoadingManager] Checking for language preference...
 
-[LoadingManager] No language preference found. Will use system setting.
+[LoadingManager] LanguageCode player setting is: "ru"
 
-I2Loc: SavedLanguage is "". System language is "Russian"
+I2Loc: SavedLanguage is "Russian". System language is "Russian"
 I2Loc: Setting language to Russian (ru)
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
 
 Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 2870.
-Total: 58.682600 ms (FindLiveObjects: 0.369400 ms CreateObjectMapping: 0.164300 ms MarkObjects: 58.119700 ms  DeleteObjects: 0.028800 ms)
+Total: 1.717696 ms (FindLiveObjects: 0.228258 ms CreateObjectMapping: 0.056104 ms MarkObjects: 1.425064 ms  DeleteObjects: 0.007382 ms)
 
 Initializing platform...
 [PlayerSettingsManager] Saving player settings.
 
-[FileUtilityHelper] Attempting to save "C:/Users/Роман Ширяев/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\playerSettings.xml"...
+[FileUtilityHelper] Attempting to save "C:/Users/Алексей/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\playerSettings.xml"...
 
-[FileUtilityHelper] Successfully saved "C:/Users/Роман Ширяев/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\playerSettings.xml".
+[FileUtilityHelper] Successfully saved "C:/Users/Алексей/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\playerSettings.xml".
 
 [PCPlatformUtil] VRModeRequested: True
 
@@ -396,27 +421,27 @@ XXXOXO
 First time loading the title scene: instantiating OneTimeLoad objects!
 Initializing BuildInfoManager...
 Bundle Version: 1.9.10
-Fallback handler could not load library F:/games/Keep Talking and Nobody Explodes v1.9.10/ktane_Data/Mono/XInputInterface32
-Fallback handler could not load library F:/games/Keep Talking and Nobody Explodes v1.9.10/ktane_Data/Mono/.\XInputInterface32
-Fallback handler could not load library F:/games/Keep Talking and Nobody Explodes v1.9.10/ktane_Data/Mono/XInputInterface32
-Fallback handler could not load library F:/games/Keep Talking and Nobody Explodes v1.9.10/ktane_Data/Mono/libXInputInterface32
-Fallback handler could not load library F:/games/Keep Talking and Nobody Explodes v1.9.10/ktane_Data/Mono/.\libXInputInterface32
-Fallback handler could not load library F:/games/Keep Talking and Nobody Explodes v1.9.10/ktane_Data/Mono/libXInputInterface32
+Fallback handler could not load library D:/Games/Keep Talking and Nobody Explodes v1.9.10/ktane_Data/Mono/XInputInterface32
+Fallback handler could not load library D:/Games/Keep Talking and Nobody Explodes v1.9.10/ktane_Data/Mono/.\XInputInterface32
+Fallback handler could not load library D:/Games/Keep Talking and Nobody Explodes v1.9.10/ktane_Data/Mono/XInputInterface32
+Fallback handler could not load library D:/Games/Keep Talking and Nobody Explodes v1.9.10/ktane_Data/Mono/libXInputInterface32
+Fallback handler could not load library D:/Games/Keep Talking and Nobody Explodes v1.9.10/ktane_Data/Mono/.\libXInputInterface32
+Fallback handler could not load library D:/Games/Keep Talking and Nobody Explodes v1.9.10/ktane_Data/Mono/libXInputInterface32
 Failed to find a xinput dll, or no xinput controller is connected.
 InControl (version 1.6.15 build 9080)
 [SecondScreenInteractiveManual] Changing state from Loading to Loading
 
 [KTEasyFeedbackForm] KTEasyFeedbackForm created.
 
-[KTInputManager] InControl Platform: WINDOWS 10 ENTERPRISE 64BIT BUILD 17134
+[KTInputManager] InControl Platform: WINDOWS 7 ULTIMATE SERVICE PACK 1 64BIT BUILD 7601
 
 [KTInputManager] InControl Devices: 0
 
-[KTInputManager] Active device: None () [Supported] [Platform: WINDOWS 10 ENTERPRISE 64BIT BUILD 17134]
+[KTInputManager] Active device: None () [Supported] [Platform: WINDOWS 7 ULTIMATE SERVICE PACK 1 64BIT BUILD 7601]
 
-[KTInputManager] Active SecondScreen device: None () [Supported] [Platform: WINDOWS 10 ENTERPRISE 64BIT BUILD 17134]
+[KTInputManager] Active SecondScreen device: None () [Supported] [Platform: WINDOWS 7 ULTIMATE SERVICE PACK 1 64BIT BUILD 7601]
 
-Configuring using external log config file: F:\games\Keep Talking and Nobody Explodes v1.9.10\logConfig.xml.
+Configuring using external log config file: d:\Games\Keep Talking and Nobody Explodes v1.9.10\logConfig.xml.
 [Logging] Logging successfully configured from external file.
 
 [UserManager] Initialized UserManager
@@ -426,7 +451,7 @@ Configuring using external log config file: F:\games\Keep Talking and Nobody Exp
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
 
 Unloading 710 unused Assets to reduce memory usage. Loaded Objects now: 7940.
-Total: 54.104000 ms (FindLiveObjects: 0.642700 ms CreateObjectMapping: 0.379600 ms MarkObjects: 52.647800 ms  DeleteObjects: 0.433000 ms)
+Total: 11.221572 ms (FindLiveObjects: 0.395096 ms CreateObjectMapping: 0.157684 ms MarkObjects: 10.462974 ms  DeleteObjects: 0.205521 ms)
 
 No Playlist Controllers exist in the Scene. Music will not play.
 [SecondScreenManager] VRMode=false, disabling.
@@ -436,7 +461,7 @@ No Playlist Controllers exist in the Scene. Music will not play.
 [LoadingManager] Loading: mainScene
 
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-[LoadingManager] Finished loading: 3.77 sec(s)
+[LoadingManager] Finished loading: 0.12 sec(s)
 
 [LoadingManager] Could not find any connected and supported InControl devices. Prompting user to connect, if the current platform has a native prompt...
 
@@ -448,30 +473,15 @@ Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
 
 [LoadingManager] Engagement complete. Loading main scene...
 
-[FileUtilityHelper] Attempting to load "C:/Users/Роман Ширяев/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\demoSettings.xml"...
+[FileUtilityHelper] Attempting to load "C:/Users/Алексей/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\demoSettings.xml"...
 
-[FileUtilityHelper] Failed to load "C:/Users/Роман Ширяев/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\demoSettings.xml": Could not find file "C:\Users\Роман Ширяев\AppData\LocalLow\Steel Crate Games\Keep Talking and Nobody Explodes\demoSettings.xml".
-
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-[DemoManager] Failed to load demo settings from user path, looking for demoSettings.xml next to executable.
-
-[FileUtilityHelper] Attempting to load "demoSettings.xml"...
-
-[FileUtilityHelper] Successfully loaded "demoSettings.xml".
-
-[DemoManager] Saving demo settings.
-
-[FileUtilityHelper] Attempting to save "C:/Users/Роман Ширяев/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\demoSettings.xml"...
-
-[FileUtilityHelper] Successfully saved "C:/Users/Роман Ширяев/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\demoSettings.xml".
+[FileUtilityHelper] Successfully loaded "C:/Users/Алексей/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\demoSettings.xml".
 
 [DemoManager] Demo settings: [Mode: Off], [DisableAlarmClockSound: False], [SkipVerificationFlow: False], [ForgetLastGameSettings: False]
 
-[FileUtilityHelper] Attempting to load "C:/Users/Роман Ширяев/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\tournamentSettings.xml"...
+[FileUtilityHelper] Attempting to load "C:/Users/Алексей/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\tournamentSettings.xml"...
 
-[FileUtilityHelper] Failed to load "C:/Users/Роман Ширяев/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\tournamentSettings.xml": Could not find file "C:\Users\Роман Ширяев\AppData\LocalLow\Steel Crate Games\Keep Talking and Nobody Explodes\tournamentSettings.xml".
+[FileUtilityHelper] Failed to load "C:/Users/Алексей/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\tournamentSettings.xml": Could not find file "C:\Users\Алексей\AppData\LocalLow\Steel Crate Games\Keep Talking and Nobody Explodes\tournamentSettings.xml".
 
  
 (Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
@@ -480,7 +490,7 @@ Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
 
 [FileUtilityHelper] Attempting to load "tournamentSettings.xml"...
 
-[FileUtilityHelper] Failed to load "tournamentSettings.xml": Could not find file "F:\games\Keep Talking and Nobody Explodes v1.9.10\tournamentSettings.xml".
+[FileUtilityHelper] Failed to load "tournamentSettings.xml": Could not find file "d:\Games\Keep Talking and Nobody Explodes v1.9.10\tournamentSettings.xml".
 
  
 (Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
@@ -495,64 +505,126 @@ Turn Order: Snake
 SeedStyle: GenerateSame 
 PacingEvents: ForceOneMinuteLeftOnly
 
-[FileUtilityHelper] Attempting to load "C:/Users/Роман Ширяев/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\modSettings.xml"...
+[FileUtilityHelper] Attempting to load "C:/Users/Алексей/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\modSettings.xml"...
 
-[FileUtilityHelper] Failed to load "C:/Users/Роман Ширяев/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\modSettings.xml": Could not find file "C:\Users\Роман Ширяев\AppData\LocalLow\Steel Crate Games\Keep Talking and Nobody Explodes\modSettings.xml".
-
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-[FileUtilityHelper] Attempting to save "C:/Users/Роман Ширяев/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\modSettings.xml"...
-
-[FileUtilityHelper] Successfully saved "C:/Users/Роман Ширяев/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\modSettings.xml".
+[FileUtilityHelper] Successfully loaded "C:/Users/Алексей/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\modSettings.xml".
 
 [ModSettingsManager] Assets.Scripts.Settings.ModSettings
 
 [StatsManager] Loading stats from stats.xml...
 
-[FileUtilityHelper] Attempting to load "C:/Users/Роман Ширяев/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\stats.xml"...
+[FileUtilityHelper] Attempting to load "C:/Users/Алексей/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\stats.xml"...
 
-[FileUtilityHelper] Failed to load "C:/Users/Роман Ширяев/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\stats.xml": Could not find file "C:\Users\Роман Ширяев\AppData\LocalLow\Steel Crate Games\Keep Talking and Nobody Explodes\stats.xml".
-
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-[StatsManager] No stats found.
+[FileUtilityHelper] Successfully loaded "C:/Users/Алексей/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\stats.xml".
 
 [StatsManager] Recorded Stats:
 
+[StatsManager] thebasicsprogress: IntValue: 4
+
+[StatsManager] moderateprogress: IntValue: 3
+
+[StatsManager] needyprogress: IntValue: 0
+
+[StatsManager] challengingprogress: IntValue: 0
+
+[StatsManager] extremeprogress: IntValue: 0
+
+[StatsManager] exoticprogress: IntValue: 0
+
+[StatsManager] moduletypeprogress: IntValue: 10
+
+[StatsManager] totalstrikes: IntValue: 22
+
+[StatsManager] totalmodulesdisarmed: IntValue: 51
+
+[StatsManager] totalbombsexploded: IntValue: 14
+
+[StatsManager] totalbombsdefused: IntValue: 8
+
 [StatsManager] Recorded Achievements:
 
-UnloadTime: 1.667700 ms
+[StatsManager] firstbomb: unlocked at 04/04/2020 15:45:41
+
+UnloadTime: 0.823265 ms
 [MissionManager] MissionManager initialized. 34 missions available.
 
 [RecordManager] Loading records from records.xml...
 
-[FileUtilityHelper] Attempting to load "C:/Users/Роман Ширяев/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\records.xml"...
+[FileUtilityHelper] Attempting to load "C:/Users/Алексей/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\records.xml"...
 
-[FileUtilityHelper] Failed to load "C:/Users/Роман Ширяев/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\records.xml": Could not find file "C:\Users\Роман Ширяев\AppData\LocalLow\Steel Crate Games\Keep Talking and Nobody Explodes\records.xml".
-
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-[RecordManager] No records found.
+[FileUtilityHelper] Successfully loaded "C:/Users/Алексей/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\records.xml".
 
 [RecordManager] Loading best time records from best_times.xml...
 
-[FileUtilityHelper] Attempting to load "C:/Users/Роман Ширяев/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\best_times.xml"...
+[FileUtilityHelper] Attempting to load "C:/Users/Алексей/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\best_times.xml"...
 
-[FileUtilityHelper] Failed to load "C:/Users/Роман Ширяев/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\best_times.xml": Could not find file "C:\Users\Роман Ширяев\AppData\LocalLow\Steel Crate Games\Keep Talking and Nobody Explodes\best_times.xml".
+[FileUtilityHelper] Successfully loaded "C:/Users/Алексей/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes\best_times.xml".
 
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+[RecordManager] 22 recent records found:
 
-[RecordManager] No best time records found.
+[RecordManager] Record: 22 Mission: fairgame Result: ExplodedDueToTime Seed: 2099795649 Modules: 5 Solved: 4 TimeElapsed: 300.0059  RealTimeElapsed: 308.019 Strikes: 0
 
-[RecordManager] 0 recent records found:
+[RecordManager] Record: 21 Mission: giantleap Result: Defused Seed: 2087692279 Modules: 4 Solved: 4 TimeElapsed: 240.3369  RealTimeElapsed: 248.3821 Strikes: 0
 
-[RecordManager] Recent Record Summary: Success: 0 ExplodeDueToStrikes: 0 ExplodeDueToTime: 0
+[RecordManager] Record: 20 Mission: giantleap Result: ExplodedDueToStrikes Seed: 1017924328 Modules: 4 Solved: 3 TimeElapsed: 296.9833  RealTimeElapsed: 285.8669 Strikes: 3
 
-[RecordManager] 0 Best Time records found:
+[RecordManager] Record: 19 Mission: giantleap Result: ExplodedDueToStrikes Seed: 1561989584 Modules: 4 Solved: 2 TimeElapsed: 277.2439  RealTimeElapsed: 283.2368 Strikes: 3
+
+[RecordManager] Record: 18 Mission: giantleap Result: ExplodedDueToTime Seed: 528196454 Modules: 4 Solved: 1 TimeElapsed: 300.0174  RealTimeElapsed: 259.6057 Strikes: 2
+
+[RecordManager] Record: 17 Mission: somethingsdifferent Result: Defused Seed: 1967553610 Modules: 3 Solved: 3 TimeElapsed: 216.9849  RealTimeElapsed: 225.0066 Strikes: 0
+
+[RecordManager] Record: 16 Mission: somethingsdifferent Result: ExplodedDueToTime Seed: 1691993640 Modules: 3 Solved: 2 TimeElapsed: 300.0013  RealTimeElapsed: 277.468 Strikes: 1
+
+[RecordManager] Record: 15 Mission: somethingsdifferent Result: ExplodedDueToTime Seed: 1518884006 Modules: 3 Solved: 1 TimeElapsed: 300.0102  RealTimeElapsed: 281.4532 Strikes: 1
+
+[RecordManager] Record: 14 Mission: ahiddenmessage Result: Defused Seed: 1423922196 Modules: 3 Solved: 3 TimeElapsed: 219.7098  RealTimeElapsed: 211.8833 Strikes: 1
+
+[RecordManager] Record: 13 Mission: ahiddenmessage Result: ExplodedDueToTime Seed: 604693268 Modules: 3 Solved: 2 TimeElapsed: 300.0137  RealTimeElapsed: 303.1928 Strikes: 2
+
+[RecordManager] Record: 12 Mission: ahiddenmessage Result: ExplodedDueToTime Seed: 244638912 Modules: 3 Solved: 1 TimeElapsed: 300.0222  RealTimeElapsed: 257.7283 Strikes: 2
+
+[RecordManager] Record: 11 Mission: doubleyourmoney Result: Defused Seed: 1170148825 Modules: 6 Solved: 6 TimeElapsed: 258.0868  RealTimeElapsed: 266.1389 Strikes: 0
+
+[RecordManager] Record: 10 Mission: somethingoldsomethingnew Result: Defused Seed: 1098941083 Modules: 3 Solved: 3 TimeElapsed: 188.3708  RealTimeElapsed: 196.4469 Strikes: 0
+
+[RecordManager] Record: 9 Mission: pickupthepace Result: Defused Seed: 376233838 Modules: 3 Solved: 3 TimeElapsed: 134.1178  RealTimeElapsed: 142.1545 Strikes: 0
+
+[RecordManager] Record: 8 Mission: pickupthepace Result: ExplodedDueToTime Seed: 669984524 Modules: 3 Solved: 1 TimeElapsed: 180.0025  RealTimeElapsed: 171.0625 Strikes: 1
+
+[RecordManager] Record: 7 Mission: pickupthepace Result: ExplodedDueToTime Seed: 447285668 Modules: 3 Solved: 0 TimeElapsed: 180.0104  RealTimeElapsed: 170.1991 Strikes: 1
+
+[RecordManager] Record: 6 Mission: pickupthepace Result: ExplodedDueToTime Seed: 281416642 Modules: 3 Solved: 0 TimeElapsed: 180.0017  RealTimeElapsed: 158.8213 Strikes: 1
+
+[RecordManager] Record: 5 Mission: pickupthepace Result: ExplodedDueToTime Seed: 1066344239 Modules: 3 Solved: 0 TimeElapsed: 180.0059  RealTimeElapsed: 164.5201 Strikes: 2
+
+[RecordManager] Record: 4 Mission: onestepup Result: Defused Seed: 478835335 Modules: 4 Solved: 4 TimeElapsed: 236.4362  RealTimeElapsed: 244.4565 Strikes: 0
+
+[RecordManager] Record: 3 Mission: onestepup Result: ExplodedDueToTime Seed: 826337415 Modules: 4 Solved: 3 TimeElapsed: 300.0035  RealTimeElapsed: 308.0215 Strikes: 0
+
+[RecordManager] Record: 2 Mission: onestepup Result: ExplodedDueToTime Seed: 1853079627 Modules: 4 Solved: 2 TimeElapsed: 300.0039  RealTimeElapsed: 294.8595 Strikes: 1
+
+[RecordManager] Record: 1 Mission: firsttime Result: Defused Seed: 684115387 Modules: 3 Solved: 3 TimeElapsed: 258.1394  RealTimeElapsed: 232.6832 Strikes: 1
+
+[RecordManager] Recent Record Summary: Success: 8 ExplodeDueToStrikes: 2 ExplodeDueToTime: 12
+
+[RecordManager] 8 Best Time records found:
+
+[RecordManager] Record: 1 Mission: firsttime Result: Defused Seed: 684115387 Modules: 3 Solved: 3 TimeElapsed: 258.1394  RealTimeElapsed: 232.6832 Strikes: 1
+
+[RecordManager] Record: 4 Mission: onestepup Result: Defused Seed: 478835335 Modules: 4 Solved: 4 TimeElapsed: 236.4362  RealTimeElapsed: 244.4565 Strikes: 0
+
+[RecordManager] Record: 9 Mission: pickupthepace Result: Defused Seed: 376233838 Modules: 3 Solved: 3 TimeElapsed: 134.1178  RealTimeElapsed: 142.1545 Strikes: 0
+
+[RecordManager] Record: 10 Mission: somethingoldsomethingnew Result: Defused Seed: 1098941083 Modules: 3 Solved: 3 TimeElapsed: 188.3708  RealTimeElapsed: 196.4469 Strikes: 0
+
+[RecordManager] Record: 11 Mission: doubleyourmoney Result: Defused Seed: 1170148825 Modules: 6 Solved: 6 TimeElapsed: 258.0868  RealTimeElapsed: 266.1389 Strikes: 0
+
+[RecordManager] Record: 14 Mission: ahiddenmessage Result: Defused Seed: 1423922196 Modules: 3 Solved: 3 TimeElapsed: 219.7098  RealTimeElapsed: 211.8833 Strikes: 1
+
+[RecordManager] Record: 17 Mission: somethingsdifferent Result: Defused Seed: 1967553610 Modules: 3 Solved: 3 TimeElapsed: 216.9849  RealTimeElapsed: 225.0066 Strikes: 0
+
+[RecordManager] Record: 21 Mission: giantleap Result: Defused Seed: 2087692279 Modules: 4 Solved: 4 TimeElapsed: 240.3369  RealTimeElapsed: 248.3821 Strikes: 0
 
 [SceneManager] Creating game states...
 
@@ -568,114 +640,37 @@ UnloadTime: 1.667700 ms
 
 [ServicesSteam] Received user stats from Steam for game id 341800
 
-[ServicesSteam] Steam achievement id firstbomb was unlocked remotely but is not unlocked locally. Recording unlock locally...
-
-[ServicesSteam] Successfully submitted achievement unlock to Steam. This has not yet been synced to their server, though.
-
-[StatsManager] Achievement 'firstbomb' unlocked! (first unlock)
-
-[ServicesSteam] Replacing stat value thebasicsprogress with larger remote value 4
-
-[ServicesSteam] Successfully submitted stat id thebasicsprogress change to int value 4 to Steam. This has not yet been synced to their server, though.
-
-[StatsManager] Stat 'thebasicsprogress' changed from 0 to 4
-
-[ServicesSteam] Choosing not to send achivement unlock to steam because achivement id allthebasics is not AchievementType.OneTime (or there is no achivement info for this id)
-
-[StatsManager] Achievement 'thebasicsprogress' unlocked! (first unlock)
-
-[ServicesSteam] Replacing stat value moderateprogress with larger remote value 6
-
-[ServicesSteam] Successfully submitted stat id moderateprogress change to int value 6 to Steam. This has not yet been synced to their server, though.
-
-[StatsManager] Stat 'moderateprogress' changed from 0 to 6
-
-[ServicesSteam] Replacing stat value moduletypeprogress with larger remote value 9
-
-[ServicesSteam] Successfully submitted stat id moduletypeprogress change to int value 9 to Steam. This has not yet been synced to their server, though.
-
-[StatsManager] Stat 'moduletypeprogress' changed from 0 to 9
-
-[ServicesSteam] Replacing stat value totalstrikes with larger remote value 14
-
-[ServicesSteam] Successfully submitted stat id totalstrikes change to int value 14 to Steam. This has not yet been synced to their server, though.
-
-[StatsManager] Stat 'totalstrikes' changed from 0 to 14
-
-[ServicesSteam] Replacing stat value totalmodulesdisarmed with larger remote value 90
-
-[ServicesSteam] Successfully submitted stat id totalmodulesdisarmed change to int value 90 to Steam. This has not yet been synced to their server, though.
-
-[StatsManager] Stat 'totalmodulesdisarmed' changed from 0 to 90
-
-[ServicesSteam] Replacing stat value totalbombsexploded with larger remote value 12
-
-[ServicesSteam] Successfully submitted stat id totalbombsexploded change to int value 12 to Steam. This has not yet been synced to their server, though.
-
-[StatsManager] Stat 'totalbombsexploded' changed from 0 to 12
-
-[ServicesSteam] Replacing stat value totalbombsdefused with larger remote value 11
-
-[ServicesSteam] Successfully submitted stat id totalbombsdefused change to int value 11 to Steam. This has not yet been synced to their server, though.
-
-[StatsManager] Stat 'totalbombsdefused' changed from 0 to 11
-
 [ServicesSteam] Finished merging existing stats and achievements
 
 [ServicesSteam] Sent request to store stats to Steam.
 
 
-Unloading 176 unused Assets to reduce memory usage. Loaded Objects now: 37697.
-Total: 85.385600 ms (FindLiveObjects: 3.580800 ms CreateObjectMapping: 4.404900 ms MarkObjects: 75.945100 ms  DeleteObjects: 1.454400 ms)
+Unloading 176 unused Assets to reduce memory usage. Loaded Objects now: 37557.
+Total: 54.813313 ms (FindLiveObjects: 1.588950 ms CreateObjectMapping: 2.643131 ms MarkObjects: 49.712196 ms  DeleteObjects: 0.867854 ms)
 
 Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
-[UnlockState] Entered UnlockState of DisplayType AllApplicableScreens
-
-[PrefabOverride] Prefab override: InputBased: True, CurrentControlType: Mouse, Path: "PC/Prefabs/TitleMenu/ControlsTutorialDiagramMouse"
-
-[PrefabOverride] Prefab override: InputBased: True, CurrentControlType: Mouse, Path: "PC/Prefabs/ControlsPoster/ControlsPoster_mouse"
-
-[MaterialOverride] Material override: InputBased: True, CurrentControlType: Mouse, Path: "PC/Materials/controls_poster_unlit_mouse"
+[ServicesSteam] Sent request to store stats to Steam.
 
 [SceneManager] Fading in...
 
+[State] Enter SetupState
 
-Unloading 400 unused Assets to reduce memory usage. Loaded Objects now: 46198.
-Total: 98.363200 ms (FindLiveObjects: 4.001800 ms CreateObjectMapping: 4.366100 ms MarkObjects: 89.229000 ms  DeleteObjects: 0.766100 ms)
+[MissionTableOfContentsPageManager] Showing ToC 0 page 0.
 
-[MenuScreen] Entering screen LearnMoreScreenNonVR
 
-[MenuScreen] Leaving screen LearnMoreScreenNonVR
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 37617.
+Total: 50.405239 ms (FindLiveObjects: 1.900479 ms CreateObjectMapping: 2.586436 ms MarkObjects: 45.862218 ms  DeleteObjects: 0.055514 ms)
 
-[MenuScreen] Entering screen VerificationScreen
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
 
-[MenuScreen] Submitted verification code 137 for manual version 1-ru
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 37617.
+Total: 48.730951 ms (FindLiveObjects: 1.576547 ms CreateObjectMapping: 1.838469 ms MarkObjects: 45.264849 ms  DeleteObjects: 0.050494 ms)
 
-[MenuScreen] Verification code 137 is incorrect! (expected 117)
+[MissionTableOfContentsPageManager] Showing ToC 0 page 0.
 
-[MenuScreen] Submitted verification code 173 for manual version 1-ru
+[MissionTableOfContentsPageManager] Showing ToC 0 page 1.
 
-[MenuScreen] Verification code 173 is incorrect! (expected 117)
-
-[MenuScreen] Submitted verification code 241 for manual version 1-ru
-
-[MenuScreen] Verification code 241 is incorrect! (expected 117)
-
-[MenuScreen] Submitted verification code 117 for manual version 1-ru
-
-[MenuScreen] Verification code 117 is correct!
-
-[MenuScreen] Leaving screen VerificationScreen
-
-[MenuScreen] Entering screen ControlsTutorialIntro
-
-[MenuScreen] Leaving screen ControlsTutorialIntro
-
-[MenuScreen] Entering screen ControlsTutorialScreen
-
-[WireSetComponent] Wires.Count is now 5
-
-[MenuScreen] Entering screen DossierTitleMenuScreen
+[MissionTableOfContentsPageManager] Showing ToC 0 page 0.
 
 [PrefabOverride] Prefab override: InputBased: True, CurrentControlType: Mouse, Path: "PC/Prefabs/DossierMenu/DossierControls_Mouse"
 
@@ -689,10 +684,5 @@ Total: 98.363200 ms (FindLiveObjects: 4.001800 ms CreateObjectMapping: 4.366100 
 [SceneManager] Fading out and exiting.
 
 Setting up 2 worker threads for Enlighten.
-  Thread -> id: 333c -> priority: 1 
-  Thread -> id: 2658 -> priority: 1 
-NullReferenceException: Object reference not set to an instance of an object
-  at ControlsTutorialScreen.OnDisable () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
+  Thread -> id: 28b8 -> priority: 1 
+  Thread -> id: 1fec -> priority: 1 

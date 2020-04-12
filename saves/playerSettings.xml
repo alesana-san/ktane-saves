@@ -3,7 +3,7 @@
   <InvertTiltControls>false</InvertTiltControls>
   <TouchpadInvert>false</TouchpadInvert>
   <RumbleEnabled>true</RumbleEnabled>
-  <MusicVolume>100</MusicVolume>
+  <MusicVolume>0</MusicVolume>
   <SFXVolume>100</SFXVolume>
   <AntiAliasing>4</AntiAliasing>
   <VRModeRequested>true</VRModeRequested>
@@ -23,4 +23,5 @@
   <ShowLeaderBoards>true</ShowLeaderBoards>
   <ShowScanline>true</ShowScanline>
   <ShowRotationUI>true</ShowRotationUI>
+  <LanguageCode>ru</LanguageCode>
 </PlayerSettings>
